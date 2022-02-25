@@ -1,0 +1,901 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks of A. Pulton, master in the Savoy, upon Dr Tho. Tenison's late narrative with a confutation of the doctors rule of faith, and a reply to A. Chresners pretended Vindication.</title>
+            <author>Pulton, A. (Andrew), 1654-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56281</idno>
+            <idno type="STC">Wing P4207</idno>
+            <idno type="STC">ESTC R5578</idno>
+            <idno type="EEBO-CITATION">11893381</idno>
+            <idno type="OCLC">ocm 11893381</idno>
+            <idno type="VID">50470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 507:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks of A. Pulton, master in the Savoy, upon Dr Tho. Tenison's late narrative with a confutation of the doctors rule of faith, and a reply to A. Chresners pretended Vindication.</title>
+                  <author>Pulton, A. (Andrew), 1654-1710.</author>
+               </titleStmt>
+               <extent>[11], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nathaniel Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: prelim. p. [1].</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tenison, Thomas, 1636-1715. --  Six conferences concerning the Eucharist.</term>
+               <term>Chresner, A. --  Vindication of A. Cresner.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:50470:1"/>
+            <head>BOOKS lately printed for <hi>Richard Chiſwell.</hi>
+            </head>
+            <p>THE Pillar and Ground of Truth. A Treatiſe ſhewing that the
+<hi>Roman Church</hi> falſly claims to be <hi>That Church,</hi> and the Pillar of <hi>That Truth</hi> mentioned by St. <hi>Paul</hi> in his Firſt Epiſtle to <hi>Timothy. Chap.</hi> 3 <hi>Verſ.</hi> 15. 4<hi rend="sup">o</hi>.</p>
+            <p>A Short Summary of the Principal Controverſies between the Church of <hi>England</hi> and the Church of <hi>Rome;</hi> being a Vindication of ſeveral Proteſtant Doctrines, in Ansſwer to a Late Pamphlet, Intituled, [<hi>Proteſtancy deſtitute of Scripture Proofs.</hi>] 4<hi rend="sup">o</hi>.</p>
+            <p>Two Diſcourſes; of Purgatory, and Prayers for the Dead.</p>
+            <p>An Anſwer to a late Pamphlet, Intitutled [The Judgment and Doctrine of the Clergy of the Church of <hi>England,</hi> concerning one Special Branch of the King's Prerogative, viz. <hi>In Diſpenſing with the Penal Laws.</hi>] 4<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Preparation for Death:</hi> Being a Letter ſent to a young Gentle<g ref="char:EOLhyphen"/>woman in <hi>France,</hi> in a dangerous Diſtemper, of which ſhe died.</p>
+            <p>The Difference between the <hi>Church of England</hi> and the
+<hi>Church of Rome,</hi> in oppoſition to a late Book, entitutled, <hi>An Agreement between the Church of</hi> England <hi>and Church</hi> of Rome.</p>
+            <p>A <hi>PRIVATE PRAYER</hi> to be uſed in Difficult Times,
+8<hi rend="sup">o</hi>.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50470:1"/>
+            <p>REMARKS OF A PULTON MASTER in the SAVOY, UPON D<hi rend="sup">r</hi> Tho. Teniſon's LATE NARRATIVE;</p>
+            <p>With a Confutation of the <hi>Doctors Rule of Faith.</hi> AND A REPLY TO <hi>A. Chreſners</hi> pretended Vindication.</p>
+            <p>
+               <hi>Published by Authority.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Nathaniel Thompſon</hi> at the Entrance into <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs,</hi>
+1687.</p>
+            <pb facs="tcp:50470:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50470:2"/>
+            <head>
+               <hi>To the Pariſhioners of St.</hi> Mar<g ref="char:EOLhyphen"/>tins in the Fields,
+<hi>and St</hi> James Weſtminſter.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>YOur Learned Paſtor, the Reve<g ref="char:EOLhyphen"/>rend Dr. <hi>Teniſon,</hi> having been pleas'd, to his printed Account of a <hi>Conference</hi> had between Him and Me on the <hi>29th.</hi> of <hi>September</hi> laſt; in which he has not only notoriouſly miſ-repreſented the Matter of Fact, but alſo ſtuff'd his whole <hi>Narrative</hi> with ſeveral falſe Aſperſions, reflecting, not only on my particular Perſon, but alſo on the whole So<g ref="char:EOLhyphen"/>ciety, whereof I am a Member; and on our. Holy Mother the
+<hi>Catholick Church,</hi> of which I profeſs my ſelf an unworthy Son: The
+<hi>Dr.</hi> I ſay, having been pleas'd to this Account to pre<g ref="char:EOLhyphen"/>fix an
+<hi>Epiſtle</hi> to you, fraught with malitious Inſinuations and Calumnies: You will not, I hope, think me guilty of too great Preſumption, if endeavouring to clear my ſelf from the falſe Accuſations brought againſt me; I, though a Stranger, making Appeal to you, before whom the
+<hi>Dr.</hi> has laid his Charge, and expect from <hi>your Judgement and Candor</hi> (however pre<g ref="char:EOLhyphen"/>poſſeſt
+<pb facs="tcp:50470:3"/> with a good Opinion of the <hi>Dr</hi> and a Prejudice againſt both my Religion and Order;) a fair and equitable Hearing.</p>
+            <p>The <hi>Dr.</hi> begins his <hi>Epiſtle</hi> to you with a Complaint of <hi>many falſe Reports and Papers induſtriouſly ſpread by ſome of the leſs ſin<g ref="char:EOLhyphen"/>cere and leſs generous</hi> Romaniſts, Now as I proteſt an utter Abhorrence of all ſuch un<g ref="char:EOLhyphen"/>worthy Proceedings, ſo I cannot eaſily be<g ref="char:EOLhyphen"/>lieve any <hi>Catholick</hi> to have been guilty of them, without ſome more ſufficient Teſtimony than the <hi>Dr</hi>'s Word; of whoſe inſincere and diſingenuous Actings, his Account is a moſt ap<g ref="char:EOLhyphen"/>parent Evidence. And that <hi>Letters</hi> ſent both into the
+<hi>North</hi> and <hi>Weſt</hi> of <hi>England,</hi> bearing date the very day of the <hi>Conference;</hi> and im<g ref="char:EOLhyphen"/>porting, that there were at leaſt Eight or Ten <hi>Jeſuits</hi> put to Silence, by the force of one
+<hi>Dr</hi>'s Arguments, manifeſtly ſhews, that the <hi>Dr.</hi> is not the only perſon, who has Cauſe to complain of <hi>falſe Reports,</hi> or Reaſon to fear, <hi>That unworthy Ends would be ſerv'd on the Credulous.</hi>
+            </p>
+            <p>The <hi>Dr.</hi> to excuſe the Bitterneſs (not to ſay Scurrility) of his Expreſſions, tells you a ſtory <hi>of a Perſon, one of whoſe Names,</hi> as he Words it, was <hi>Gubbard,</hi> who, in the time of the Rebellion againſt King <hi>Charles</hi> the I. <hi>Re<g ref="char:EOLhyphen"/>commending</hi>
+               <pb facs="tcp:50470:3"/> 
+               <hi>himſelf to the Committee at</hi> Norwich, as a Man, <hi>Who had a zeal for the ſame</hi> Cauſe, <hi>in which they were engag'd, took Poſſeſſion of the Living of</hi> Mondeſly, out of which the <hi>Dr</hi>'s Father was Ejected for his Loyalty: That <hi>after a few years, he Preach'd up</hi> Purgatory, <hi>and other ſuch Points, in ſo open a manner,</hi> That the <hi>Committee turn'd him out again; and that in a little time he (as it were) vaniſh'd away.</hi>
+            </p>
+            <p>By this ſtory, which the <hi>Dr.</hi> uſhers in with his having <hi>a Motive to ſevere Language to<g ref="char:EOLhyphen"/>wards that ſort of men</hi> (meaning <hi>Catholick Prieſts) which few have beſides;</hi> and cloſes with the <hi>Impreſſion, it made upon him when he was young, and the raiſing his Suſpition and Indignation</hi> ever ſince; he would inſinuate, that this <hi>Gubbard</hi> was ſome <hi>Jeſuit</hi> or
+<hi>Catholick Prieſt,</hi> which he pretends to prove, by his changing his Name, his Favour with the Committee, and his Preaching of
+<hi>Pur<g ref="char:EOLhyphen"/>garory.</hi>
+            </p>
+            <p>
+               <hi>Catholick Prieſts</hi> ſometimes change their Names, thereby the better to ſhelter themſelves from the rigorous Severity of the
+<hi>Sanguinary Laws,</hi> executed on them by meek-hearted
+<hi>Pro<g ref="char:EOLhyphen"/>teſtants,</hi> only in reſpect of their Function; yet if it be conſider'd, that this is frequently done
+<pb facs="tcp:50470:4"/> by other Perſons on far different Motives and Occaſions, it will ſeem very ridiculous to infer from thence, that the Perſon mention'd by the <hi>Dr.</hi> was a <hi>Prieſt.</hi>
+            </p>
+            <p>Nor yet will his Preaching of <hi>Purgatory,</hi> and ſuch other Points, evince him to have been a <hi>Romaniſt</hi> (much leſs a
+<hi>Prieſt</hi> if it ſhall be conſider'd, how many far ſtranger Opinions were in thoſe days of Liberty vented in the Pulpit; and that many years have not paſs'd, ſince a very Learned Member of the Church of
+<hi>England,</hi>
+               <note place="margin">
+                  <hi>Dr.</hi> Thorn<g ref="char:EOLhyphen"/>dike <hi>Pre<g ref="char:EOLhyphen"/>bend of</hi> Weſtminſter.</note> and dying in her Communion, deſir'd an <hi>Ora pro animâ</hi> to be Engraven on his Tomb.</p>
+            <p>Now to ſhew, how great Favour the <hi>Prieſts</hi> and
+<hi>Jeſuits</hi> found with the Committees of thoſe Times. I take the Liberty to inform the World, that my Father had ſix Uncles
+<hi>Jeſuits;</hi> and yet was not only himſelf committed to Priſon by the
+<hi>Rebels</hi> for his <hi>Religion,</hi> and his <hi>Loyalty</hi> to his
+<hi>King;</hi> but his Houſe was alſo for a long time poſſeſs'd by a Committee Miniſter; and two of his Brethren were for three years Edu<g ref="char:EOLhyphen"/>cated in another Committee Miniſters houſe at <hi>Kettring</hi> in
+<hi>Northamptonſhire,</hi> where they were oblig'd, being under Age, to go to
+<hi>Schiſma<g ref="char:EOLhyphen"/>tical Service;</hi> though it pleas'd Almighty God of his Infinite Mercy to reduce them afterwards into the Boſom of his Spouſe the
+<hi>Catholick</hi>
+               <pb facs="tcp:50470:4"/> 
+               <hi>Church,</hi> out of which, none of our Family ever dy'd, Nor do I believe any one Family in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> was more frequently Pillag'd, or more ſe<g ref="char:EOLhyphen"/>verely Sequeſter'd, than Ours; yet I bleſs God, I am ſo far from having my Indignation thereby rais'd againſt that Party, or entertaining any Hatred towards them, that I rather glory in our having had occaſion to ſuffer for our <hi>King,</hi> and our <hi>Religion.</hi>
+            </p>
+            <p>I here therefore Challenge the <hi>Dr.</hi> and his Adherents to make it appear, that this, or any other Committee Miniſter was either a
+<hi>Jeſuit</hi> or <hi>Prieſt</hi> of the <hi>Roman Church;</hi> or elſe muſt take leave to ſay, that his vending ſuch like ſcurrilous Suſpicions and Surmiſes at this time of day, ſeem directly to aim at that, of which I am unwilling to think him guilty.</p>
+            <p>Having return'd this Anſwer to what is moſt material in his
+<hi>Epiſtle;</hi> I leave you, <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> to judge, whether he has been ſo <hi>Juſt or Fair,</hi> as he pretends; or whether his Deport<g ref="char:EOLhyphen"/>ment in this whole Matter is not ſuch, as de<g ref="char:EOLhyphen"/>ſerves far more ſevere
+<hi>Remarks,</hi> than any he has hitherto undergone from,</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed>
+                  <hi>Your Hearty Well wiſher And humble Servant in</hi> Chriſt Jeſus. A.P.</signed>
+            </closer>
+         </div>
+         <div type="testimonies">
+            <pb facs="tcp:50470:5"/>
+            <div type="testimony">
+               <head>Teſtimonies in favour of <hi>A. P.</hi>
+               </head>
+               <p>
+                  <hi>THeſe are to Satisfie, that I</hi> John Keynes,
+<hi>Pro<g ref="char:EOLhyphen"/>vincial of the</hi> Engliſh Jeſuits, <hi>have made a ſtrict enquiry whether any of thoſe</hi> Prieſts <hi>under my Obedience, in or about</hi> London, <hi>were with</hi> A. P. <hi>at a</hi> Conference <hi>held between Dr.</hi> T. <hi>and the ſaid</hi> A. P. <hi>in</hi> Long-Acre
+<hi>on</hi> Michaelmaſs-day <hi>laſt; and cannot learn that any was there, except one who came in to<g ref="char:EOLhyphen"/>wards the Evening, ſtay'd about half an hour, and re<g ref="char:EOLhyphen"/>tir'd again, without ſpeaking a word to the</hi> Dr. <hi>or to</hi> A. P.</p>
+               <closer>
+                  <dateline>
+                     <hi>Witneſs my Hand,</hi>
+                     <date>October <hi>the</hi> 31. 1687.</date>
+                  </dateline>
+                  <signed>John Keynes.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>THat</hi> A. P. <hi>went the ſaid Afternoon about Two of the Clock, all alone from the</hi> Savoy, <hi>are Witneſses</hi>
+               </p>
+               <closer>
+                  <signed>James Cook, John Taylor,
+<hi>&amp;c.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>ABout half an hour after Two on</hi> Michaelmaſs<g ref="char:EOLhyphen"/>day
+<hi>laſt, Mr.</hi> P. <hi>came alone to my Houſe in</hi> Old Spring-Gardenſt <hi>to enquire for Mr.</hi> M. <hi>and departed after aſhort ſtay, with the ſaid Mr.</hi> M. <hi>no body elſe being in their Company.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Witneſs my Hand.</hi>
+                  </dateline>
+                  <signed>Dorothy Ceene,</signed> 
+                  <dateline>
+                     <hi>and Ours</hi>
+                  </dateline>
+                  <signed>Edward Bysſhe, Mary Bysſhe.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>ON</hi> Thurſday <hi>St.</hi> Michaels-day, <hi>Mr.</hi> Pulton <hi>came with one Gentleman to our Houſe in</hi> Long-Acre, <hi>and deſired to be further directed to<g ref="char:EOLhyphen"/>wards</hi>
+                  <pb facs="tcp:50470:5"/> 
+                  <hi>Mr.</hi> Johnſons <hi>the Kings Cabinet-maker; this was between Two and Three in the Afternoon, and my Brother</hi> Thomas Jones <hi>went with the ſaid Mr.</hi> Pul<g ref="char:EOLhyphen"/>ton <hi>and his Companion to Mr.</hi> Johnſon's, <hi>no other being in their Company:</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Witneſs our Hands.</hi>
+                  </dateline>
+                  <signed>Mary Lewis, Thomas Jones, Aurelius Jones.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>WE alſo teſtifie, that the Conference being end<g ref="char:EOLhyphen"/>ed, Mr.</hi> Pulton <hi>returned to our Houſe, only in company of the Gentleman he went with; and my Bro<g ref="char:EOLhyphen"/>ther</hi> Thomas Jones <hi>lighted Mr.</hi> Pulton
+<hi>to the</hi> Savoy.</p>
+               <closer>
+                  <dateline>
+                     <hi>Witneſs our Hands.</hi>
+                  </dateline>
+                  <signed>Tho. Lewis, Elizab. Jones, Barthol. Chiven, Jane Chiven.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>ON</hi> Thurſday <hi>about a quarter before Three in the Afternoon, Mr.</hi> Pulton <hi>with one Gentleman in his company, (directed by</hi> Thomas Jones) <hi>came to Mr.</hi> Johnſons <hi>the Kings Cabinet-maker, and deſir'd to know where the Brazier liv'd, he was led to a Chamber whither no body went to him, ſaving a third Gentleman who caſually came in, and whom Mr.</hi> Pul<g ref="char:EOLhyphen"/>ton <hi>ſaid he knew nothing of, and ſtay'd with him till it was told Mr.</hi> Pulton <hi>that the</hi> Dr. <hi>was come, and that he might go when he pleas'd to him; he went in com<g ref="char:EOLhyphen"/>pany of the Gentleman who came along with him, the third alſo following him, but no body elſe was of the company when he went to Mr.</hi> Uppingtons <hi>the Brazier, who lives next door to Mr.</hi> Johnſon. <hi>In Teſtimony of which,</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Witneſs our hands.</hi>
+                  </dateline>
+                  <signed>Francis Johnſon, Joſeph Allen, John Abercromby.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <pb facs="tcp:50470:6"/>
+               <p>I Thomas Jones <hi>farther witneſs, that ſtanding over the way, I ſaw Mr.</hi> Pulton <hi>go in company of the aforeſaid Gentleman to Mr.</hi> Uppingtons, <hi>nor did I obſerve any body elſe to be with him,</hi>
+               </p>
+               <closer>
+                  <signed>Thomas Jones.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>THeſe are to ſatisfie the World, (that having made a diligent enquiry) I find that neither my Prieſt or any other of my Family, or from my houſe, was preſent at a late Conference about Religion, held in</hi> Long-Acre, <hi>between Mr.</hi> P. <hi>and</hi> Dr. T. <hi>Paſtor of St.</hi> Martins in the Fields.</p>
+               <closer>
+                  <dateline>
+                     <hi>Witneſs my hand,</hi>
+                  </dateline>
+                  <signed>Mary St. Johns.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>BEing in the Chamber where the Conference was held, I ſaw Mr.</hi> Pulton <hi>come up with only one Gentleman in his company, and a third who followed them.</hi>
+               </p>
+               <closer>
+                  <dateline>Witneſs my hand,</dateline>
+                  <signed>Cath. Lamb.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>BE it known to all, that</hi> A. P. <hi>having publickly in School, deſired that if any one had heard him ſpeak a word relating to a Conference he was to have with</hi> Dr. Teniſon, <hi>or any body elſe, he would ſtand up and own it; no body was found who could ſay he heard any thing thereof.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Witneſs the hands of the ſix firſt of his School,</hi>
+                  </dateline>
+                  <signed>J. Whitaker, <hi>Prot.</hi> Joh. Brady, <hi>Cath.</hi> Edw. Bray, <hi>Cath.</hi> Char. Tripp, <hi>Prot.</hi> Rog. Thornton,
+<hi>Prot.</hi> Edy Lacy, <hi>Cat.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>There are two of the Texts alledg'd againſt <hi>Luther,</hi> which <hi>A. P.</hi> has not found in the Author (not having all his Works) but for ſatisfaction, he will allow at the next occaſion, ſixteen grams more.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:50470:6"/>
+            <head>REMARKS UPON Dr. <hi>Teniſon</hi>'s NARRATIVE.</head>
+            <p>THe <hi>Dr.</hi> in the beginning of his
+<note place="margin">
+                  <hi>Dr. T's acc. of Conf. p.</hi> 1, 2.</note>
+               <hi>Narrative,</hi> Charges <hi>A. P.</hi> that having had a Diſcourſe concer<g ref="char:EOLhyphen"/>ning <hi>Luther</hi>'s Contradictions, and his being Taught ſome things by the Devil, made this general Inference, <hi>That ever ſince, the pretended Reform'd had proceeded upon the Word of the Devil. A. P.</hi> poſitively affirms, he never ſaid any ſuch thing; but acknowledges, that on this occaſion, he put indeed the following Quaery<hi>: Now I ask, whether the Doctrine, deliver'd by the Spirit of <g ref="char:V">Ʋ</g>ntruth, can be from the Holy Ghoſt.</hi> The <hi>Dr.</hi> would by this odious Inſinuation, poſſeſs his Reader with an Averſion for <hi>A. P.</hi> as Teaching all of the late pre<g ref="char:EOLhyphen"/>tended <hi>Reformation</hi> to be Scholars of <hi>Satan:</hi> So that whatever <hi>A. P.</hi> ſhall ſay in Defence of his Cauſe, may be heard with prejudice and averſeneſs of mind.</p>
+            <p>Then the <hi>Dr.</hi> gives a hint, as though the Youth was not found in his Intellectuals; and that his <hi>Maſter</hi> ſhould ſay,
+<hi>This had befallen him ſince his having been ſeduced:</hi> As alſo, that he was <hi>grown a great Lyar, Idle, uneaſie to the Family by Damning his fellow Servants,</hi> &amp;c. Here I cannot but blame in the
+<pb n="2" facs="tcp:50470:7"/> 
+               <hi>Dr.</hi> firſt his want of Fraternal Charity in publiſhing Faults (for at preſent I take them upon the
+<hi>Dr</hi>'s word) committed in a private Houſe, to the view of the whole Kingdom. Secondly, His want of reſpect in charging the Religion, of which the Sworn Head of his own Church is a principal Member, and which, as themſelves confeſs, flouriſh'd in this Kingdom near a thouſand years, before
+<hi>Proteſtancy</hi> was ever heard of, to be ſuch, whence <hi>a mopiſh, lying, uneaſie and idle Temper,</hi> naturally flows.</p>
+            <p>As for the <hi>Youth's turning what was ſaid about</hi> Luther
+<hi>and the</hi> Devil <hi>upon the</hi> Dr. <hi>and aſcribing it to him;</hi> I think the Boy might have ſome ſmall rea<g ref="char:EOLhyphen"/>ſon for it, ſince the <hi>Dr.</hi> neither then did, nor now does deny the Truth of this Paſſage concerning <hi>Luther;</hi> ſo that his ſilence might be taken for a tacit and ſecondary Confirmation.</p>
+            <p>
+               <hi>He Damn'd his fellow-Apprentices about</hi> Whit<g ref="char:EOLhyphen"/>ſuntide
+<hi>laſt</hi> (as the <hi>Dr.</hi> told <hi>A. P.</hi> in the
+<hi>Savoy,)</hi> which was long before <hi>A. P.</hi> began to Catechiſe: ſo that he Learn'd not of him that Damning Prin<g ref="char:EOLhyphen"/>ciple, of which <hi>A. P.</hi> will ſpeak in its proper place. Here again the <hi>Dr.</hi> uſes Artifice to create an Odi<g ref="char:EOLhyphen"/>um in his Reader againſt <hi>A. P.</hi> that what
+<hi>A. P.</hi> ſhall ſay, however juſt and reaſonable, may be re<g ref="char:EOLhyphen"/>ceiv'd with Paſſion and Rancour againſt him. But Truth will take place, maugre all diſingenuous Artifices.</p>
+            <p>Now had the <hi>Dr.</hi> been ſo ſucceſsful, as to have re<g ref="char:EOLhyphen"/>duc'd his eſteem'd ſeduc'd Sheep; O then he had been (as truly I believe he is) a very <hi>Candid, Ingenuous, Laborious, Tractable Youth:</hi> But this is a common ſhift with the Party, to decry, vilifie and defame all that leave their Communion, though convinc'd
+<pb n="3" facs="tcp:50470:7"/> in <hi>Conſcience</hi> and <hi>Reaſon,</hi> that they ought ſo to do; and extol all that joyn themſelves to it, though known to be <hi>Sacrilegious,</hi> and <hi>little better than</hi> Atheiſts
+<hi>in their Lives.</hi>
+            </p>
+            <p>The <hi>Dr.</hi> ſpeaks of great Boaſting on the
+<hi>Catho<g ref="char:EOLhyphen"/>licks</hi>
+               <note place="margin">
+                  <hi>Conf. p.</hi> 3.</note> ſide; as though the <hi>Dr.</hi> durſt not meet <hi>A. P.</hi> of which <hi>A. P.</hi> never heard but from him; nor can the <hi>Dr.</hi> ever bring any Witneſs, who will be able to make out, that <hi>A. P.</hi> gave the Challenge. So much he might have ſaid to the Youth; that, if his Maſter were offended at his Change, he would endeavour, if his Maſter ſo deſir'd, to give him ſatisfaction. But he never nam'd any <hi>Dr.</hi> or Miniſter in the Kingdom, much leſs aſſign'd <hi>Place</hi> and <hi>Hour;</hi> as the <hi>Dr.</hi> has been pleas'd to give out. And for <hi>A. P</hi>'s Party, he knows none he had, ex<g ref="char:EOLhyphen"/>cept the Youth, who to his knowledge had nothing to do in the whole Affair. What jugling Mr. <hi>
+                  <g ref="char:V">Ʋ</g>.</hi> or his Wife, or both, may have us'd to make the Parties meet, <hi>A. P.</hi> knows not; and as on the one ſide he will never decline any fair Conference, (though he has been twice diſappointed, wait<g ref="char:EOLhyphen"/>ing in vain, a Miniſter of the Church of <hi>England:)</hi> So on the other, he will not eaſily appoint any, unleſs the Conditions, hereafter ſet down, be punctually obſerv'd.</p>
+            <p>
+               <hi>'Twas agreed,</hi> (ſays the <hi>Dr.) on all ſides, that</hi>
+               <note place="margin">Ibid.</note> 
+               <hi>there ſhould be little Company, and no noiſe.</hi> Firſt, There was no agreement made in order to any Par<g ref="char:EOLhyphen"/>ticulars, before the Parties met; if made then, why was it not kept? Shall I tell you? becauſe the <hi>Dr.</hi> ſaw his own Party to be at leaſt ſix to one, and therefore Mr. <hi>
+                  <g ref="char:V">Ʋ</g>.</hi> would not harken to
+<hi>A. P.</hi> de<g ref="char:EOLhyphen"/>ſiring the Chamber might be clear'd; ſo that the
+<pb n="4" facs="tcp:50470:8"/> whole matter of Fact, contain'd in this Paragraph, is very notoriouſly miſ-repreſented; by which the <hi>Dr.</hi> would cunningly inſinuate, that the <hi>Catholicks</hi> are forward in carrying on this Cauſe, and willing to be bickering with the Church of
+<hi>England.</hi>
+            </p>
+            <p>The <hi>Dr.</hi> affirms, <hi>That</hi> A. P. <hi>came in with Nine</hi>
+               <note place="margin">
+                  <hi>Confer. p.</hi> 4.</note> 
+               <hi>or Ten after him.</hi> Now a Gentleman, zealous for the Truth, will allow a <hi>Guiney</hi> an Head, for every one, that ſhall be prov'd to have been of <hi>A. P</hi>'s Company, Invitation, or Appointment, more than Mr. <hi>M.</hi> In order to which, the Reader is deſir'd to conſider the Teſtimonies alledg'd at the end of theſe <hi>Remarks.</hi> If a third Gentleman unknown to <hi>A. P.</hi> or ſome others (of which <hi>A. P.</hi> knows no<g ref="char:EOLhyphen"/>thing) ſhould caſually come in, he has nothing to anſwer for that; and Mr. <hi>
+                  <g ref="char:V">Ʋ</g>.</hi> may thank himſelf, who had buz'd the Conference abroad, whilſt <hi>A. P.</hi> knew not ſo much, as at which end of <hi>Long-Acre</hi> Mr. <hi>
+                  <g ref="char:V">Ʋ</g>
+               </hi>'s Houſe was.</p>
+            <p>The <hi>Dr.</hi> adds, that preſently, after he came in,
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>He eſpied in the Room, a Priest in a yellow Pe<g ref="char:EOLhyphen"/>ruke; one from my Lady St.</hi> John<hi>'s of</hi> Long-Acre, <hi>whom he ſuppoſes to be a Prieſt, and one in a plain Band, who (as was ſaid) came with him.</hi> Were not this from a Grave <hi>Dr.</hi> I ſhould not ſpare a ſevere Reflection upon it, ſince every part of the Aſſer<g ref="char:EOLhyphen"/>tion is falſe. And there are two <hi>Gaineys</hi> depoſited in <hi>A. P</hi>'s Hands, for him, who ſhall find out this yellow Peruke; (which was there preſently after <hi>A. P</hi>'s coming in) this ſuppos'd Prieſt of my Lady St. <hi>John</hi>'s, or the Gentleman in the plain Band, and prove them to be <hi>Jeſuits</hi> or <hi>Prieſts,</hi> or in the leaſt to have medled with the diſpute. There was indeed one in a yellow Peruke, but he came not
+<pb n="5" facs="tcp:50470:8"/> till the Evening, ſtay'd not above half an hour, and ſpoke not one Syllable to the <hi>Dr.</hi> or relating to the Conference. Now the Reaſon, why the <hi>Dr.</hi> has ſo miſ-repreſented this meeting, is becauſe he was aſham'd, that, all the Kingdom being fill'd with the noiſe of Eight, Ten, and Fifteen <hi>Jeſuits,</hi> ſilenc'd by him; and that his Friend Mr. <hi>
+                  <g ref="char:V">Ʋ</g>.</hi> and his Wife being known to be the prime Authors and ſpreaders of theſe ſtories, the ſham ſhould in the end be diſcovered<hi>:</hi> And therefore, he would give ſome colour and ground for theſe falſe reports, by ſetting forth <hi>Jeſuits</hi> under
+<hi>diſtinctive ſigns, viz.</hi> yellow Perukes, plain Bands,
+<hi>&amp;c.</hi> with theſe <hi>Salvo</hi>'s, <hi>It is ſaid, it is ſuppos'd;</hi> whilſt the <hi>Dr.</hi> is conſcious, he had to deal but with one <hi>Jeſuit,</hi> and another <hi>he eſteems as good as one.</hi> Where mark, that even the <hi>Dr.</hi> himſelf, never makes the yellow Peruke, or plain-Band-Gentleman, ſpeak one word through his whole
+<hi>Narrative;</hi> though trim'd up with all the advantageous (though little ſincere) flouriſhes imaginable.</p>
+            <p>But let us grant theſe (ſuppoſed ſo) to have been truly
+<hi>Jeſuits,</hi> how will the <hi>Dr.</hi> make out the ſecond part of the ſtory, <hi>viz.</hi> of ſo many being ſilenc'd by him? Now <hi>A. P.</hi> being vers'd in the Doctrine of <hi>Equivocation,</hi> (as the <hi>Dr.</hi> is pleas'd
+<note place="margin">
+                  <hi>Confer. p.</hi> 4.</note> to hint) has an Evaſion for him: Eight <hi>Jeſuits</hi> were ſilenc'd, that is, ſome not known of in the crowd, beſides a yellow Peruke and plain Band,
+<hi>&amp;c.</hi> ſtood ſilent before the <hi>Dr.</hi> Nor do I ſee how it can any other way be made out.</p>
+            <p>For what relates to Scholars preſſing at the
+<note place="margin">
+                  <hi>p.</hi> 4.</note> door, <hi>A. P.</hi> aſſures the World, he never ſpoke a tittle of this Affair to any Scholar, as you ſhall ſee
+<pb n="6" facs="tcp:50470:9"/> atteſted anon; and that one having <hi>(A. P.</hi> knows not by what means) heard thereof, and asking leave to go, he abſolutely refus'd it: And that meeting two in <hi>Long-Acre,</hi> he was offended at them, and ſent them preſently home: Nor was there any one, who came near the Chamber, only ſix or eight at moſt (all living there abouts) who flock'd to the Street<g ref="char:punc">▪</g>door, where a numerous Crowd was aſſem<g ref="char:EOLhyphen"/>bled.</p>
+            <p>As for what he ſays in his <hi>5th.</hi> Page, I refer the Reader to what Mr. <hi>M.</hi> intends to publiſh in his own behalf.</p>
+            <p>The <hi>Dr.</hi> in Page <hi>6th.</hi> Begins his Artifice of in<g ref="char:EOLhyphen"/>verting
+<note place="margin">
+                  <hi>Confer. p.</hi> 6.</note> and confounding the whole Order of the Conference, leaving out the Diſcourſe concerning
+<hi>Luther</hi>'s Contradictions, which was a Preamble, and not the main Subject, as he would make the World believe, ſo to caſt a miſt before their Eyes, that they may not conſider the ſtreſs of the prime Queſtion in debate.</p>
+            <p>To <hi>A. P</hi>'s urging, <hi>What aſſurance the Church of</hi>
+               <note place="margin">Ibid.</note> England <hi>could give, that ſhe had the true Word of God,</hi> He anſwers, that theſe Diſcourſes tend to <hi>Atheiſm,</hi> to which <hi>A. P.</hi> gives his aſſent; and grants the whole, <hi>to wit,</hi> that thoſe who will not <hi>believe Tranſubſtantiation,</hi> can never be oblig'd by the <hi>Dr</hi>'s Rule of Faith, to believe the <hi>Trinity,</hi> neither word being there<hi>:</hi> The Texts of Scripture, relating to either, being equally lyable to Cavilling<hi>:</hi> And the one being as repugnant to the apparent Prin<g ref="char:EOLhyphen"/>ciples of Diſcourſe, as the other to the Arguments of Senſe.</p>
+            <p>Now woe be to them, who have open'd this door to
+<hi>Atheiſm,</hi> by teaching the People, they
+<pb n="7" facs="tcp:50470:9"/> ought to believe no farther than they ſee; whence they bid adien to all the hidden and ſecret Myſte<g ref="char:EOLhyphen"/>ries of Faith, which are eſſentially obſcure in their Object, though clear in their Motive.</p>
+            <p>He brings next, that which was truly premiſed,
+<note place="margin">
+                  <hi>Confer. p.</hi> 7.</note> willing to delude his Reader with an Opinion, that this was the Point in debate<hi>:</hi> And has therefore gather'd together ſeveral Paſſages, brought in ca<g ref="char:EOLhyphen"/>ſually on different occaſions.</p>
+            <p>He ſays <hi>Paſchaſius Radbertus</hi> allow'd of Three
+<note place="margin">Ibid.</note> Sacraments, but the Dr. ſhould have added, <hi>he allowed of no more than Three,</hi> which he will never make out. He adds that he <hi>was the inventor of</hi> Tranſubſtantiation.
+<hi>A. P.</hi> anſwered, <hi>That is no more true, than the firſt</hi> Nicene <hi>Council was the Au<g ref="char:EOLhyphen"/>thor of</hi> Conſubſtantiality. Where note, that on emergent occaſions, the Church, to condemn new Errours and Hereſies, has been often obliged to Coin new words (as in the above-mention'd Coun<g ref="char:EOLhyphen"/>cil of <hi>Nice)</hi> thereby to take away all Colluſion in terms, the ordinary ſhift of <hi>Hereticks.</hi>
+            </p>
+            <p>He ſays alſo,
+<q>That <hi>Luther,</hi> (ſome grains of
+<note place="margin">Ibid.</note> allowance being given to him as we ought to every Man) was an excellent Inſtrument of Gods, </q> 
+               <hi>A. P.</hi> therefore, to comply with the <hi>Dr.</hi> will allow him <hi>ſome grains of Allowance,</hi> and then leave it to the Judgement of every Pious Chri<g ref="char:EOLhyphen"/>ſtian, whether <hi>Luther Was an excellent Inſtrument of GODS,</hi> or no; and how Chriſtian-like a Re<g ref="char:EOLhyphen"/>formation that muſt needs prove, which muſt (whatever its greateſt Abettors ſay to the contrary) date its Birth and Origin from him, and own him for its prime <hi>Patriarch.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:50470:10"/> This digreſſion into <hi>Luther</hi>'s Praiſes, <hi>A. P.</hi> Judges the more warrantable, for that the
+<hi>Dr.</hi> is frequent<g ref="char:EOLhyphen"/>ly pleaſed to inſinuate, that the prime Queſtion ought to have been concerning him.</p>
+            <p>
+               <hi>Firſt,</hi> As to his Religion, taking it in general, t'was any thing that had but an Oppoſition to <hi>Po<g ref="char:EOLhyphen"/>pery.</hi> He makes <hi>the Divinity it Self Three-fold, as there are Three Perſons;</hi> whence
+<hi>Zuinglius</hi> (a com<g ref="char:EOLhyphen"/>petent
+<note place="margin">Zuing. to. 2. fol. 474.</note> Interpreter of
+<hi>Luthers</hi> meaning) infers, that <hi>he makes Three Gods.</hi>
+            </p>
+            <p>
+               <hi>My Soul,</hi> ſays <hi>Luther,</hi> hates <hi>Homouſion, and the</hi> Arians <hi>did very well in expelling it, leaſt ſo pro<g ref="char:EOLhyphen"/>phane</hi>
+               <note place="margin">Lut. lib. con. Latom. tom. 2. Witt. Imp. an
+1551.</note> 
+               <hi>and new a Word ſhould be uſed in the Articles of Faith.</hi> Who ſees not that the ſame Spirit, which ſet him a quarrelling with the <hi>Nicene</hi> Council on account of the word
+<hi>Homouſion,</hi> guides our modern Sectaries to except againſt thoſe of <hi>Lateran, Florence</hi> and <hi>Trent,</hi> on account of the word
+<hi>Tranſubſtantiation.</hi>
+            </p>
+            <p>
+               <hi>How can CHRIST (ſays</hi> Zuinglius <hi>to</hi> Luther)
+<note place="margin">Par. 2. fol. 402.</note> 
+               <hi>be ſaid to be made of a Woman, if, as thou ſayeſt, he was from all Eternity according to his Humane Na<g ref="char:EOLhyphen"/>ture?</hi>
+               <note place="margin">
+                  <hi>Vide</hi> Zuing. to. 2. fol 458. &amp; Luth. lib. de Concil Par. 2.</note> No leſs impious is that which follows, <hi>If the Divinity did not ſuffer in CHRIST, he was not my CHRIST.</hi>
+            </p>
+            <p>Such being <hi>Luther</hi>'s Piety towards the Deity (to omit many other execrable Blaſphemies of his touching CHRIST's ſuffering on the
+<hi>Croſs,</hi> the horrour of a troubled Conſcience, and pains in Hell after death;) it cannot be expected, he ſhould be much more reſpectful to the Sacred Writers of GOD's Word.</p>
+            <p>He ſays, <hi>Eccleſiaſtes</hi> has <hi>never a perfect Sentence,</hi>
+               <note place="margin">Conviv. Serm. Tit. de lib. v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. &amp; No. Teſt.</note>
+               <hi>and that the Author thereof had neither Boots nor Spurs, but ridon a long Stick, or in Begging Shooes, as</hi>
+               <pb n="9" facs="tcp:50470:10"/> 
+               <hi>he did when he was a Fryer. 'Tis a falſe Opinion,</hi>
+               <note place="margin">Lib. de ſcrip. &amp; Eccleſ. Auth. cap.
+3.</note> 
+               <hi>and to be aboliſh'd, that there are Four Goſpels; for the Goſpel of St.</hi> John <hi>is the only fair, true, and principal Goſpel.</hi> Is not the Church of <hi>England</hi>'s <hi>Canon</hi> notably ſupported by this Teſtimony?</p>
+            <p>But of his Services done to God, there's none more Excellent, none more conducing to his Honour, none more beſeeming the Godly and Religious Morals of this Inſtrument of God, and Church-Reformer, than his aboliſhing the Decalogue.
+<q>The Ten Commandments <hi>(ſays he)</hi> belong not to Us;
+<note place="margin">Serm. de Moſe.</note> for God did not lead Us, but the <hi>Jews</hi> out of <hi>Aegypt.</hi>
+               </q> The Inference alſo is as admirable, as the Poſition Godly and Religious,
+<q>Hence (ſays he) the chief
+<note place="margin">To. 5. fol. 272.</note> Art and Wiſdom of Chriſtians, is not to know the Law, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>From this Principle, ſo inſtrumental to Piety and true Religion, he drew theſe admirable Documents. <hi>Polygamy,</hi> ſays he,
+<hi>is no more abrogated, than the</hi>
+               <note place="margin">Propoſ. de Bi<g ref="char:EOLhyphen"/>gam. Epiſt. An. 1528. Propoſ. 62, 65, 66. Tom. 7. Witt. fol. 505.</note> 
+               <hi>reſt of</hi> Moſes<hi>'s Law.</hi> Again, <hi>He, that reſolves to be without a Woman, let him lay aſide the Name of a Man, making himſelf a plain Angel.</hi> And again, he Counſels the Husband, in caſe his Wife refuſe his Bed, to ſay to her, <hi>If thou wilt not, another will; if the Miſtreſs will not, let the Maid come.</hi> A
+<note place="margin">To. 5. fol. 123.</note> wholeſom Advice certainly (by which, he per<g ref="char:EOLhyphen"/>ſwaded himſelf, he ſhould not fail to get
+<hi>Proſelytes</hi> enough,) and an admirable practice for one who was to be the Father of the <hi>Reformation,</hi> and the beſt means he could invent, others proving in<g ref="char:EOLhyphen"/>effectual, to propagate it, and multiply the godly Party. For, as he taught, ſo he liv'd.</p>
+            <p>
+               <hi>As it is not,</hi> ſays he, <hi>in my Power, that I ſhould</hi>
+               <note place="margin">To. 5. fol<g ref="char:punc">▪</g> 119.</note> 
+               <hi>be no Man, ſo it is not in my Power, that I ſhould be</hi>
+               <pb n="10" facs="tcp:50470:11"/> 
+               <hi>without a Woman.</hi> Whereas he owns, that, whilſt a <hi>Roman Catholick,</hi> and a Religious Man, which was above fifteen years, <hi>He kept Chaſtity, puniſh'd his poor Body with Faſting, Watching, Praying, and other Exerciſes,</hi> a little too harſh for his new fang<g ref="char:EOLhyphen"/>led <hi>Reformation;</hi> and therefore he prudently left them out of it.</p>
+            <p>Of his ſincerity in expounding <hi>Holy Scripture</hi> (in which, if in any thing, he ought to be eſteem'd <hi>an Inſtrument of God)</hi> I ſhall ſpeak in its proper place.</p>
+            <p>His Charity to his Fellow-Goſpellers, and nice<g ref="char:EOLhyphen"/>neſs of Conſcience, appears by this, <hi>I knew,</hi> ſays
+<note place="margin">Parva Confeſſ. &amp; Tom 3. Germ. fol. 55. &amp; Coll. Menſ. Germ. fol. 210.</note> he, <hi>the Elevation of the Sacrament to be Idolatrous; yet I retain'd it in the Church at</hi> Wittenberg,
+<hi>to the end I might deſpite the Devil</hi> Caroloſtadius. Now let any one accuſe the <hi>Papiſts</hi> of Idolatry in Wor<g ref="char:EOLhyphen"/>ſhipping of Images, when this <hi>Excellent Inſtrument of GOD</hi> ſticks not, at what he eſteems the groſſeſt Idolatry, to ſpite one of his Brethren. The
+<hi>Tigurines</hi> confeſs, <hi>That</hi> Luther <hi>was ſo Charitable, as to ſend</hi>
+               <note place="margin">Confeſſ Or<g ref="char:EOLhyphen"/>thod. 122, 123.</note> 
+               <hi>all to the Devil, that would not ſubſcribe to his Opi<g ref="char:EOLhyphen"/>nion.</hi>
+            </p>
+            <p>The Devil, as he was ſeldom out of his Mouth and Writings, ſo was he an inſeparable Companion to this <hi>Excellent Inſtrument of GOD. The Devil,</hi>
+               <note place="margin">Coll. Menſ. Germ. fol. 281.</note> ſays he,
+<hi>does more frequently ſleep with me, and more near me, than my</hi> Catharine. He confeſſes alſo, <hi>That he often walk'd with the Devil in his Bed-chamber; That he eat more than two Buſhels of Salt with him.</hi> How then can any one imagine this Familiarity of his with the Devil to have paſs'd in a Dream, improv'd after the <hi>Popiſh</hi> manner, (ſays the
+<hi>Dr.)</hi> into a Viſion,
+<note place="margin">
+                  <hi>Confer. p.</hi> 7.</note> without owning the ſame of his Sacrilegious Fami<g ref="char:EOLhyphen"/>liarty with his <hi>Kate.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:50470:11"/> His modeſt and civil Language is ſuch, as, being unfit for <hi>Chriſtian</hi> Ears, I willingly omit, giving you only this Remark of the <hi>Tigurines</hi> upon it. <hi>It</hi>
+               <note place="margin">Tigur. Theol. Ort. Conf. fol. 10. Tigur. Tract.
+3 cont. ſupra. Luth. Conf. pag. 61.</note> 
+               <hi>is moſt clear, and cannot be deny'd, but that never any man writ more uncivilly, more filthily, more leudly,</hi> &amp;c. <hi>than</hi> Luther. And again, <hi>Did ever man hear ſuch Speeches paſs from a furious Devil himſelf?</hi>
+            </p>
+            <p>No leſs <hi>Excellent an Inſtrument</hi> was he in order to Civil Authority and Government. <hi>Among Chri<g ref="char:EOLhyphen"/>ſtians,</hi>
+               <note place="margin">Tom. 6. Germ. de Saec. Pot. &amp; alibi.</note> ſays he, <hi>no man can, or ought to be Magi<g ref="char:EOLhyphen"/>ſtrate, but each one is to other equally ſubject.</hi> Hence, no wonder he treats Crown'd Heads with that unparallel'd Indignity and Impudence: He calls <hi>Henry</hi> the VIII.
+<hi>More Furious than Madneſs it ſelf,</hi>
+               <note place="margin">Tom. 2. fol. 333, 334, 335, 338, 340.</note>
+               <hi>more Fooliſh than Folly it ſelf; indu'd with an Impu<g ref="char:EOLhyphen"/>dent and Whoriſh Face, without any one vein of Prince<g ref="char:EOLhyphen"/>ly Blood in his Body; a lying Sophiſt, a damnable rot<g ref="char:EOLhyphen"/>ten Worm, a Baſilisk, and Progeny of an Adder,</hi> &amp;c.
+<hi>Moſt wicked and impudent</hi> Harry. And again, <hi>Thou lyeſt in thy Throat, fooliſh and Sacrilegious King.</hi>
+            </p>
+            <p>Thus giving <hi>Luther</hi> ſome few grains of Allow<g ref="char:EOLhyphen"/>ance, that is, allowing him to be one, who que<g ref="char:EOLhyphen"/>ſtion'd, if not deny'd, the Unity of God; held Chriſt to have been Man from all Eternity; the Divinity to have ſuffer'd; ſeveral unqueſtion'd Books of Scripture, to be meer ſigments, and idle ſtories, the three firſt Goſpels not to be true, the ten Commandments not to be made for Us, Poly<g ref="char:EOLhyphen"/>gamy and Fornication not to be unlawful; Conti<g ref="char:EOLhyphen"/>nency to be as impoſſible, as not to be a Man; one generally confeſs'd a manifeſt and publick cor<g ref="char:EOLhyphen"/>rupter of Scripture, moſt filthy in his Language and Writings, moſt diſ-reſpectful and inſolent to<g ref="char:EOLhyphen"/>wards Princes; one Infamous for his intimate Fa<g ref="char:EOLhyphen"/>miliarity
+<pb n="12" facs="tcp:50470:12"/> with the Devil; and in ſhort, one, whoſe Principles and Practice are abſolutely deſtructive of all Piety, Religion, Civil Government and Mo<g ref="char:EOLhyphen"/>rality; and then <hi>Dr. Martin Luther</hi> will prove moſt undoubtedly <hi>an excellent Inſtrument of GOD</hi>'s. What impartial man can doubt, but theſe <hi>Grains of Allowance</hi> are weighty enough to counterpoiſe the <hi>Dr</hi>'s bare aſſertion of it?</p>
+            <p>Having (in compliance to the <hi>Dr</hi>'s Requeſt) given theſe <hi>Grains of Allowance to</hi> Luther, whom he has been pleas'd to aſſign for <hi>an excellent Inſtrument of GOD</hi>'s, and a Pillar of the pretended <hi>Reformation. A. P.</hi> craves the Favour of his kind Reader, that he may be permitted to draw alſo a ſhort Scheme of one, whom he verily believes to have been a very great <hi>Inſtrument of GOD,</hi> and who was Con<g ref="char:EOLhyphen"/>temporary to <hi>Martin Luther.</hi> 'Tis of the great <hi>Xaverius,</hi> who (when ſome parts of <hi>Europe,</hi> inſti<g ref="char:EOLhyphen"/>gated by this Trumpet of Sedition, revolted from their Obedience to the <hi>Pope)</hi> leaving thoſe great Pretenſions in the World, to which his extraordi<g ref="char:EOLhyphen"/>nary Parts might have made him juſtly aſpire, and binding himſelf to GOD by a triple Vow of follow<g ref="char:EOLhyphen"/>ing the Evangelical Counſels (as <hi>Luther</hi> had for<g ref="char:EOLhyphen"/>merly done, though now broken it) went in ex<g ref="char:EOLhyphen"/>treme Poverty to the fartheſt parts of the
+<hi>Eaſt,</hi> where having Preach'd the Faith to near thirty Kingdoms, in twelve of which he left it planted, having demoliſh'd many thouſands of Idolatrous Temples, and Baptiz'd with his own hands twelve hundred thouſand Souls; Almighty GOD accom<g ref="char:EOLhyphen"/>panying his Preaching by ſuch Signs, as he is uſu<g ref="char:EOLhyphen"/>ally pleas'd to confer on Apoſtles of the <hi>Gentiles,</hi> as a wonderful Power over Devils, the Gift of
+<pb n="13" facs="tcp:50470:12"/> Tongues, the Spirit of Prophecy, the Curing all Diſeaſes, and raiſing five and twenty perſons from Death to Life, all which, atteſted by many Eye<g ref="char:EOLhyphen"/>witneſſes, were, after a very rigorous examen found indiſputably true, he dy'd with an Opinion of ad<g ref="char:EOLhyphen"/>mirable Sanctity, which is yet farther confirm'd by his Body remaining till this day uncorrupt at <hi>Goa.</hi>
+            </p>
+            <p>The Pious and <hi>Chriſtian</hi> Reader is now deſir'd to reflect a little on theſe two <hi>Inſtruments,</hi> and having ſeriouſly compar'd their Lives and Doctrines, in both of which they were Diametrically oppoſite to each other, freely and indifferently to determine, which of them ſeems to have been ſent by Almigh<g ref="char:EOLhyphen"/>ty GOD.</p>
+            <p>To return now to our <hi>Dr.</hi> we find him relating
+<note place="margin">
+                  <hi>Confer. p.</hi> 8.</note> a ſtory, that this great <hi>Inſtrument of GOD</hi> Martin Luther, <hi>being at</hi> Rome,
+<hi>heard the very Courtizans jeering by ſay, that ſome, who Conſecrated, had us'd theſe Words:</hi> Bread thou art, Bread thou ſhalt be; Wine thou art, Wine thou ſhalt be.</p>
+            <p>Now had <hi>Luther</hi> heard this from the Colledge of Cardinals, Biſhops, and Prelates, and had they allow'd of it, he might have had ſome Motive to diſtruſt the ſincerity of the <hi>Roman Catholick</hi> Tenet. But he heard it from <hi>the very Courtizans.</hi> This in<g ref="char:EOLhyphen"/>deed is an irrefragable Proof of <hi>Luther</hi>'s Pious Con<g ref="char:EOLhyphen"/>verſation. And here the
+<hi>Dr.</hi> has unawares poin<g ref="char:EOLhyphen"/>ted us out the true Motive of <hi>Luther</hi>'s Change of Life and Doctrine, <hi>viz.</hi> The Converſation of Courtizans; which, he knew, being a <hi>Frier,</hi> he could not ſo eaſily enjoy.</p>
+            <p>The <hi>Dr.</hi> now got into a pleaſant Humour, tells us another impertinent ſtory of an old Man, who
+<pb n="14" facs="tcp:50470:13"/> 
+               <hi>Swore to the Devil, Ador'd an Image of the Bleſſed Virgin, and kept his Courtizan:</hi> Giving an hint, as though the ſecond Council of <hi>Nice</hi> approv'd all this<hi>:</hi> Which are three notorious Calumnies. The Fathers, there aſſembled, ſaid, as they ought, that an Oath, made to the Devil, could not oblige; and that it would be leſs Sin to be naught with a Woman (it being a perſonal and private Treſpaſs) than by denying the Reſpect due to Holy Images, at that time wickedly oppugn'd by the moſt Im<g ref="char:EOLhyphen"/>pious <hi>Ieonoclaſts,</hi> to give occaſion of publick Scan<g ref="char:EOLhyphen"/>dal and <hi>Hereſie.</hi>
+            </p>
+            <p>I muſt upon this occaſion, mind the Reader of a very diſingenuous Proceeding, frequently us'd by moſt <hi>Proteſtants,</hi> viz. That, if they find in Hiſto<g ref="char:EOLhyphen"/>ry, of whatever Time or Author, any Paſſage, ſeeming to make the leaſt againſt the <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks,</hi> they preſently receive it with all the Cre<g ref="char:EOLhyphen"/>dit, due to the moſt aſſured Verity<hi>:</hi> Whereas, though five hundred Authors of undoubted Since<g ref="char:EOLhyphen"/>rity, Virtue, and Learning, atteſt from their own knowledge and experience, Paſſages, Miracles, <hi>&amp;c.</hi> evincing our
+<hi>Catholick</hi> Tenets, they value them no more than a Tale of <hi>Tom Thumb,</hi> or <hi>Valentine</hi> and <hi>Orſon.</hi>
+            </p>
+            <div type="section">
+               <head>
+                  <hi>The</hi> Dr<hi>'s Rule of Faith prov'd Inſufficient.</hi>
+               </head>
+               <p>THis ſtory, which, as appears by his own ac<g ref="char:EOLhyphen"/>count, rendred the
+<hi>Dr.</hi> very uneaſie, till he was deliver'd of it, being over, he now aſſigns for <hi>the Rule of Faith the Holy Bible, the ſum of it in neceſſary Doctrines being the Apoſtolical Creed.</hi>
+                  <note place="margin">
+                     <hi>Confer. p.</hi> 9.</note>
+                  <pb n="15" facs="tcp:50470:13"/> Now <hi>A. P.</hi> (when requiſite,) will aſſign many neceſſary Points, which, as they are unmen<g ref="char:EOLhyphen"/>tion'd in the
+<hi>Apoſtles Creed,</hi> ſo are they either not at all, or much leſs clearly prov'd from Holy Scrip<g ref="char:EOLhyphen"/>ture, than the Doctrine of the <hi>Real Preſence, Auri<g ref="char:EOLhyphen"/>cular Confeſſion, Purgatory,</hi> &amp;c. But at preſent, what follows, ſhall ſuffice. 'Tis neceſſary for
+<hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> to keep Holy the firſt day of the Week. Now where does the <hi>Bible</hi> teach the <hi>Sabbath,</hi> or ſeventh day, which was commanded to be kept in the <hi>De<g ref="char:EOLhyphen"/>calogue,</hi> to have been aboliſh'd by CHRIST, and the <hi>Sunday,</hi> being the firſt, ſubſtituted in its place? The ſame might be inſtanc'd in the Feaſt of <hi>Eaſter,</hi> no where commanded in Scripture, either as to the Obligation, or Time of its Celebration, as now practic'd by the Church. <hi>Baptiſm</hi> is neceſſary to Children for Salvation. We are bound to believe, that the Son is Conſubſtantial to the Father; that the ſecond Perſon was Really, Phyſically, and Sub<g ref="char:EOLhyphen"/>ſtantially united to our Humane Nature, and not Morally only; that the Holy Ghoſt proceeds from the Father and the Son. What plain Texts of Scripture prove theſe Tenets ſo, as the <hi>Arian, Euty<g ref="char:EOLhyphen"/>chian, Anabaptiſt,</hi> &amp;c. ſhall be oblig'd to ſubmit, being convinc'd by the Evidence thereof? <hi>A. P.</hi> therefore aſſerts, that an Infallible Church is re<g ref="char:EOLhyphen"/>quiſite to expound Holy Writ to us, and by her Traditions (which are the living Word of GOD) inſtruct us in <hi>neceſſary Doctrines.</hi> That, which the <hi>Dr.</hi> appeals to for Judge, to wit, <hi>The written Word of GOD,</hi> is no other, than what has been the Appeal of all
+<hi>Hereticks</hi> from CHRIST's time<hi>:</hi> Which conſe<g ref="char:EOLhyphen"/>quently cannot be the Rule of one True Church, that is Eſſentially different from an Heretical one.
+<pb n="16" facs="tcp:50470:14"/> And certainly no man of Senſe and Judgment can ſay, that a guilty Perſon will ever appeal to that Judge, by whom he is evidently and ſufficiently condemn'd; but all <hi>Hereticks</hi> are guilty Perſons, and yet boldly appeal to Holy Scripture; Therefore Holy Scripture is not the Judge, by whom <hi>Here<g ref="char:EOLhyphen"/>ticks</hi> are evidently and ſufficiently condemn'd. Whence is clearly made out, that there muſt be ſome other (living) Judge, by whoſe Authority <hi>Hereticks</hi> may be clearly convinc'd, and all neceſſary Points of Doctrine taught and deliver'd to us.</p>
+               <p>Would not that be the worſt conſtituted Go<g ref="char:EOLhyphen"/>vernment in the World, in which there ſhould be no living Judge or Explicator of the Law, but every one ſhould be permitted to Expound it ſo, as his own
+<hi>Capricio</hi> or private Judgment ſuggeſts, or as it may moſt make for his own Intereſt? What Malefactor at this rate would not find a
+<hi>Plea</hi> for his own Defence, and a <hi>Salvo</hi> for the moſt Enormous Crimes? Now if this in Humane Laws would be eſteem'd highly derogotary to the Prudence of the Law-giver, ſhall thoſe be deem'd to have the Spirit of GOD, who preſume to affirm the ſame of his Divine Majeſty, and ſo far to call in queſtion his Infinite Wiſdom and Goodneſs, as to think, that in the eſtabliſhment of his Church he would omit That, without which no State or Government could long ſubſiſt?</p>
+               <p>But here the <hi>Dr.</hi> may reply, what he afterwards ſays, that every one is not left to Expound this Rule at Diſcretion, but muſt
+<hi>
+                     <g ref="char:V">Ʋ</g>ſe the help of all Mi<g ref="char:EOLhyphen"/>niſterial Guides poſſible;</hi> that is, he muſt Conſult his
+<note place="margin">
+                     <hi>Confer. p.</hi> 18.</note> Miniſter, and if one ſatisfy him not, adviſe with another, and ſo to the end of the Chapter. Now
+<pb n="17" facs="tcp:50470:14"/> what ſhall we ſay, if this Man prudently diſtruſts the Miſſion of his pretended Miniſters, as every one may that of the Church of <hi>England,</hi> being grounded on meer Humane Authority. What if he diſtruſt his Miniſters Sincerity, Learning, Ver<g ref="char:EOLhyphen"/>tue? What if he queſtion his having <hi>us'd Pious Means in humility of Soul?</hi> Of which no Body can be aſſur'd? What if Conſulting many, one tells him one thing, another (as it uſually happens) quite contrary? What Means are there left to quiet this dubious mind? You will ſay, <hi>He is then left to his own Conſcience.</hi> Now being ſo left, <hi>A. P.</hi> deſires to know, whether this Mans Conſcience may be Erronous, and actually err in things ne<g ref="char:EOLhyphen"/>ceſſary to Salvation. If ſo, then his Religion may prove a meer Fancy, if more, an Opinion, but at moſt a private Judgement, and wholly void of Di<g ref="char:EOLhyphen"/>vine Faith. If he cannot err, then each one muſt be allow'd to be Infallible in his own Perſwaſion, and ſo the <hi>Dr.</hi> muſt grant that to each particular Member, which he denies to the whole. But that each one may err after all his Endeavours (if we allow no living Judge, to whom we are bound to ſubmit,) is manifeſt from daily Experience; by which we ſee, that thouſands having made uſe of <hi>all Miniſterial Guides poſſible,</hi> ceaſe not to diſſent amongſt themſelves, and diſagree even to Contra<g ref="char:EOLhyphen"/>diction in things of the greateſt moment.</p>
+               <p>And againſt the <hi>Dr. ad hominem: Roman Ca<g ref="char:EOLhyphen"/>tholicks</hi> uſe all the means <hi>Proteſtants</hi> can preſcribe, and many more,
+<hi>in humility of Soul,</hi> and have <hi>an undoubted aſſurance</hi> of being in the true way: Which being ſo, <hi>A. P.</hi> would be ſatisfy'd, with what Conſcience the Church of <hi>England</hi> can Pro<g ref="char:EOLhyphen"/>ſecute
+<pb n="18" facs="tcp:50470:15"/> men by <hi>Sanguinary Laws,</hi> who follow her own Rule with the greateſt Perfection.</p>
+               <p>One word to the <hi>Dr.</hi> and <hi>A. P.</hi> will go on to the other Parts of the <hi>Dr</hi>'s Rule. That can't be the only true Rule of Faith, without which a true Church did ſubſiſt: But without a compil'd Canon of Scripture, aſſign'd by the Church of <hi>England,</hi> as the only true Rule of Faith, a true Church did ſubſiſt<hi>:</hi> Therefore a compil'd Canon of Scripture can't be the only true Rule of Faith. The firſt Propoſition is evident; for a Church can<g ref="char:punc">▪</g>t ſubſiſt without its Eſſentials, one whereof queſtionleſs is a Rule of Faith. The ſecond is prov'd thus, The Primitive <hi>Chriſtians</hi> made a true Church<hi>:</hi> But this Church ſubſiſted many years without a compil'd Canon of Scripture, as is evident<hi>:</hi> For ſeveral years after CARIST's Death paſs'd without any written <hi>Goſpels</hi> or <hi>Epiſtles;</hi> more, before they were di<g ref="char:EOLhyphen"/>vulg'd; and ſome Ages, before they were com<g ref="char:EOLhyphen"/>pil'd into a Canon. Therefore a true Church ſubſiſted without a compil'd Canon of Scripture. Therefore that can't be the only true Rule of Faith.</p>
+               <p>The <hi>Dr.</hi> goes on, and aſſerts, that they had the ſame Proofs for their Bible with the <hi>Roman Catho<g ref="char:EOLhyphen"/>licks,</hi> viz. <hi>The Teſtimony of the <g ref="char:V">Ʋ</g>niverſal Church</hi>
+                  <note place="margin">
+                     <hi>Conf<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r.</hi> p. 9.</note> 
+                  <hi>of all Ages.</hi> Which is manifeſtly falſe: For neither the Univerſal Church, nor any part of it, deliver'd them the Bible, as the <hi>Proteſtants</hi> have it<hi>:</hi> Whether you conſider the Number of Books, Conformity of Texts, or (what is moſt Material) the Senſe and Meaning thereof: For, although the
+<note n="*" place="margin">Note, <hi>This was only a Na<g ref="char:EOLhyphen"/>tional Council, and of no Ge<g ref="char:EOLhyphen"/>neral Obligati<g ref="char:EOLhyphen"/>on.</hi>
+                  </note> Coun<g ref="char:EOLhyphen"/>cil of
+<hi>Laodicea</hi> approv'd of no more Books than thoſe, which the Church of
+<hi>England</hi> now allows
+<pb n="19" facs="tcp:50470:15"/> to be <hi>Canonical,</hi> nor indeed of all thoſe, the <hi>Apo<g ref="char:EOLhyphen"/>calypſe</hi> not being then receiv'd; yet that Council rejected not the other Books as <hi>Apocryphal.</hi> But the Church, then beginning to examine <hi>Holy Scrip<g ref="char:EOLhyphen"/>ture,</hi> approv'd for the preſent only the above-men<g ref="char:EOLhyphen"/>tion'd <hi>Canon,</hi> neither rejecting, nor admitting the other pieces. Now in the Council of <hi>Carthage,</hi> held in the year 397. the other parts of <hi>Holy Writ,</hi> being brought under Examination, were found to be of equal Authority, and conſequently receiv'd into the <hi>Canon,</hi> St. <hi>Auguſtin</hi> ſubſcribing thereto: And this was confirm'd by Pope
+<hi>Innocent</hi> the firſt in the year 402. who, giving an Account, what
+<hi>Books,</hi> were receiv'd, and directing himſelf by the Rule of Tradition, (viz. <hi>Quid cuſtodita Series tem<g ref="char:EOLhyphen"/>porum demonſtraret)</hi> ſets down theſe very <hi>Books,</hi> the
+<note place="margin">Epiſt 3 cap. 7.</note> 
+                  <hi>Roman Catholicks</hi> now ſtill allow of. And St. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> was of the ſame Judgment, as alſo Pope <hi>Ge<g ref="char:EOLhyphen"/>laſius</hi>
+                  <note place="margin">Auguſt. de Doctr. Chriſt. cap. 8.</note> in the year 492. All which was confirm'd by the ſixth General Council in the year 680.</p>
+               <p>And in the Council of <hi>Florence,</hi> held in the year 1438. the ſame Canon was again confirm'd, the <hi>Greeks, Armenians</hi> and
+<hi>Jacobites,</hi> ſubſcribing there<g ref="char:EOLhyphen"/>to. So that, when
+<hi>Protestancy</hi> began, there were no <hi>Chriſtians</hi> in the World, who believ'd thoſe Books preciſely to be <hi>Holy Scripture,</hi> which the Church of <hi>England</hi> allows of; and conſequently they have the Teſtimony of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Church</hi> and every Member thereof againſt them, wanting ten parts of that Rule, which they believe the on<g ref="char:EOLhyphen"/>ly eſſential one to Salvation. Now as for the Text, their own private Spirit is the ſole Oracle it dropt from. As for what relates to the Senſe and Mean<g ref="char:EOLhyphen"/>ing of <hi>Holy Scripture,</hi> the <hi>Dr.</hi> with all the Eyes of
+<pb n="20" facs="tcp:50470:16"/> the quick-ſighted Miniſtry ſhall never diſcover that Body of <hi>Chriſtians,</hi> who ever profeſs'd thoſe Ar<g ref="char:EOLhyphen"/>ticles of Faith, both Poſitive and Negative, the preſent Church of
+<hi>England</hi> propoſes for her <hi>Cre<g ref="char:EOLhyphen"/>denda.</hi> Hence it is evident, they have been their own Chooſers of Books, Texts, and Senſe, and from firſt to laſt have no Authority either for one or other. Mark here, how the
+<hi>Dr.</hi> calls the <hi>Canon,</hi> ſubſcrib'd by St.
+<hi>Auguſtine,</hi> and conſtantly allow'd by all the Univerſal Church for eleven hundred years <hi>Apocryphal Books of the later Time:</hi> As alſo, that his ſaying, He is <hi>as ſure of this Books being the</hi> Bible, <hi>as of</hi> Cicero<hi>'s</hi> Offices <hi>being his Book;</hi> is, with ſubmiſſion to his <hi>Doctorſhip,</hi> a miſtake. Nor can he be ſaid to believe a thing on anothers word, who neither believes him in his whole ſtory, nor in his manner of relating it, nor in the meaning of the Words, he uſes to explicate himſelf; but ſuch an one muſt be ſaid to believe, what himſelf pleaſes, and not what the other relates<hi>:</hi> Which is the pro<g ref="char:EOLhyphen"/>per Notion of an <hi>Heretick,</hi> deriv'd from
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>to chooſe.</hi>
+               </p>
+               <p>He proceeds to illuſtrate, what he ſlightly touch'd
+<note place="margin">
+                     <hi>Confer. p.</hi> 10.</note> in the
+<hi>Conference,</hi> proving the <hi>Bible</hi> from <hi>Mens con<g ref="char:EOLhyphen"/>ſidering the Propheſies, and their Events, the Cha<g ref="char:EOLhyphen"/>racters of</hi> CHRIST, <hi>the Hiſtory of</hi> CHRIST, <hi>&amp;c.</hi> Now this proves nothing, there being no other Teſtimony either for the Propheſies, or Events, than the Church of
+<hi>Englands</hi> private Judgement, ſhe not having taken them on the Teſtimony of any <hi>Chriſtians</hi> in the World. But granting the Hiſto<g ref="char:EOLhyphen"/>rical Part of <hi>Holy Writ</hi> to be clear'd by theſe Com<g ref="char:EOLhyphen"/>pariſons; yet the Doctrinal part, on which the main hinge of Controverſy turns, can never be
+<pb n="21" facs="tcp:50470:16"/> that way made out<hi>:</hi> Which being ſoreſeen by the <hi>Dr.</hi> he adds moreover, that Men muſt uſe
+<hi>Pious Means in Humility of Soul,</hi> and ſo they ſhall have
+<hi>Further Aſſurance begotten in them.</hi>
+               </p>
+               <p>Here the <hi>Dr.</hi> has found a <hi>Salvo</hi> for all the Er<g ref="char:EOLhyphen"/>rours, that ever have been, or ſhall be committed in Points of Faith<hi>:</hi> For he, that ſhall ſay, he has us'd <hi>Pious Means</hi> in Humility of Soul, and that he has an Interiour <hi>Aſſurance</hi> of the Truth (as all <hi>He<g ref="char:EOLhyphen"/>reticks</hi> in the World have ever pretended) ought never to be proceeded againſt<hi>:</hi> And by the ſame Rule, all <hi>Penal Laws,</hi> Perſecuting <hi>Chriſtians</hi> for Conſcience, are evidently unjuſt: Which notwith<g ref="char:EOLhyphen"/>ſtanding have ever been the only Bulwark of the Church of <hi>England.</hi>
+               </p>
+               <p>Now <hi>A. P.</hi> will demonſtrate the above-men<g ref="char:EOLhyphen"/>tion'd Aſſertion of the <hi>Dr</hi>'s to be Weak, Erroneous and Falſe<hi>:</hi> Which he thus proves. The <hi>Water</hi> is cleareſt at the
+<hi>Fountain-Head:</hi> Hence, if ever any us'd thoſe <hi>Pious Means,</hi> and had thereby <hi>Aſſurance begotten in them,</hi> We muſt allow it to
+<hi>Luther, Ca<g ref="char:EOLhyphen"/>roloſtadius, Zuinglius, Beza, Caſtalio,</hi> &amp;c. Who were the Principal Heads of the <hi>Reform'd Churches,</hi> and conſequently receiv'd more of the Divine In<g ref="char:EOLhyphen"/>fluence, us'd more Induſtry in acquiring
+<hi>Authentick Copies,</hi> comparing Texts, imploring the Divine Aſſiſtance, than any of their <hi>Followers.</hi>
+               </p>
+               <p>To begin therefore with <hi>Luther, Zuinglius</hi> ſays of him, That <hi>He was a foul Corrupter, and hor<g ref="char:EOLhyphen"/>rible Falſifier of GODS Word: One, who follow'd</hi>
+                  <note place="margin">Lib. de Sacra<g ref="char:EOLhyphen"/>mentia, fol. 472</note>
+                  <hi>the</hi> Marcioniſts <hi>and</hi> Arians, <hi>that ras'd out ſuch Places of Holy Writ, as were againſt him. Thou doeſt,</hi> ſays he to
+<hi>Luther, Corrupt the Word of God, thou art ſeen to be a manifest and common Corrupter</hi>
+                  <pb n="22" facs="tcp:50470:17"/> 
+                  <hi>and Perverter of the Holy Scriptures. How much are we aſham'd of thee, who have hitherto eſteem'd thee?</hi> With how great reaſon <hi>Zuinglius</hi> objected this to him, thoſe are Judges, who have noted
+<note place="margin">Vide <hi>Bell.</hi> Ser. de Pentec.</note> above a thouſand places, chang'd by him in the <hi>New Teſtament</hi> alone; and that he ſet forth the <hi>Goſpels</hi> ſeven times, every Edition very much differing from the precedent. Now <hi>A. P.</hi> deſires to know, whether, and when <hi>Martin Luther</hi> had the <hi>Aſsurance,</hi> he requires.</p>
+               <p>
+                  <hi>Luther</hi> on the other ſide affirms of the
+<hi>Zuinglian</hi>
+                  <note place="margin">Vid. Pro. Ap. tract. 10. S. 10. Subd.
+4.</note> Tranſlators, that <hi>They were Fools, Aſses, Anti<g ref="char:EOLhyphen"/>chriſts, Deceivers, and of an Aſs-like <g ref="char:V">Ʋ</g>nderſtanding. Beza</hi> ſays of the
+<hi>Baſilian</hi> Tranſlation, That <hi>It is in many places wicked, and altogether differing from the Mind of the Holy Ghost.</hi> Of <hi>Beza</hi>'s Tranſlation <hi>Castalio</hi> obſerves, <hi>That to note all his Errours, would require a great Volume. Beza</hi> again pronounces of
+<hi>Caſtalio</hi>'s Edition, That, <hi>It is Falſe, Fooliſh, <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>skilful, Bold, Blaſphemous, Vitious, Ridiculous, Curſed, Erroneous, Wicked, Perverſe.</hi> In the firſt <hi>Engliſh Bible,</hi> ſet forth in the Reign of <hi>Henry</hi> the VIII. by <hi>Tindal</hi> the chief
+<hi>Apoſtle</hi> of the pretended <hi>Reformation,</hi> Biſhop
+<hi>Tunſtal</hi> has noted no leſs than two thouſand Corruptions in the Tranſlation of the <hi>New Teſtament</hi> alone.</p>
+               <p>
+                  <hi>A. P.</hi> therefore deſires the <hi>Dr.</hi> to give a Rule to ſeekers of the Truth, by which they may diſcover the True and Uncorrupted Word of GOD. A<g ref="char:EOLhyphen"/>midſt ſo much Diſ-union, Claſhing, and manifeſt Contradictions; all which naturally flow from that irregular Liberty of Expounding Scripture, given to all men by the <hi>Reformers.</hi>
+               </p>
+               <p>
+                  <pb n="23" facs="tcp:50470:17"/> From what has been hitherto ſaid, <hi>A. P.</hi> draws this Argument. That which leads to manifeſt Diſ<g ref="char:EOLhyphen"/>cord of Opinion, cannot be the Rule of <hi>One Holy Catholick Church.</hi> But the Rule, aſſign'd by the <hi>Dr.</hi> as now prov'd, has open'd the Door to mani<g ref="char:EOLhyphen"/>feſt Diſcord in Opinion. Therefore, it is not the Rule of <hi>One True Catholick Church.</hi>
+               </p>
+               <p>
+                  <hi>A. P.</hi> Humbly intreats the indifferent Reader to ponder this whole Diſcourſe with that Attention and Judgement, it deſerves: For if <hi>A. P.</hi> proves this point againſt the <hi>Dr.</hi> he is ſure, That the whole <hi>Baſis</hi> of the <hi>Reformation</hi> will totter, and that the Church of <hi>England</hi> has no more to ſay in her Defence, than the moſt Erroneous Body of <hi>Chriſtians,</hi> which has ever been ſince CHRIST's Time.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>A Proſecution of the</hi> REMARKS.</head>
+               <p>WEre the <hi>Quaery</hi> concerning the Ordination of
+<note place="margin">
+                     <hi>Confer. p.</hi> 10.</note> 
+                  <hi>Linus</hi> any way material to <hi>A. P</hi>'s Faith, he would Anſwer it. And what Copy
+<hi>St. Peter</hi> had of the <hi>Old Teſtament,</hi> makes nothing to the proof of <hi>A. P</hi>'s <hi>Canon,</hi> for which he has the Teſtimony of an Infallible Church; whereas the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> has none at all for hers.</p>
+               <p>The <hi>Dr.</hi> in the ſame Page ſays, <hi>The Word</hi> Rock
+<note place="margin">
+                     <hi>Note,</hi> That <hi>Ce<g ref="char:EOLhyphen"/>phas</hi> (the word our Saviour us'd) is a <hi>Syri<g ref="char:EOLhyphen"/>ach</hi> word, and ſignifies the ſame in either <hi>Gender, As, you are a Rock, and upon this Rock.</hi>
+                  </note>
+                  <hi>being in the</hi> Greek <hi>of the</hi> Feminine Gender, <hi>cannot be apply'd to</hi> Peter, <hi>who is of the</hi> Maſculine. Had St.
+<hi>Paul</hi> been endow'd with the <hi>Dr</hi>'s Learning, he would certainly never have ſaid, <hi>Petra autem erat CHRIST<g ref="char:V">Ʋ</g>S,</hi> CHRIST <hi>was the Rock,</hi> He being no more of the <hi>Feminine Gender</hi> than St.
+<hi>Peter.</hi>
+               </p>
+               <p>
+                  <pb n="24" facs="tcp:50470:18"/> The <hi>Dr.</hi> having Read of twelve Foundations,
+<note place="margin">Page 11.</note> denies <hi>Peter</hi> to have had any Prerogative above the reſt of the Apoſtles, He ſhould have ſet down <hi>A. P</hi>'s Anſwer, who by way of Retortion, askt the <hi>Dr.</hi> why he was by the Evangeliſts always nam'd in the firſt place, the Order of the others be<g ref="char:EOLhyphen"/>ing always inverted, ſince he was neither called Firſt to the Apoſtolat, nor Beſt Beloved of <hi>Chriſt;</hi> why he is Read to have preſided in the Council of the Apoſtles; and why all Controverſies of Faith in all paſt Ages<hi>:</hi> were ever refer'd to St. <hi>Peter</hi>'s Suc<g ref="char:EOLhyphen"/>ceſſors to be decided.</p>
+               <p>As for Mrs. <hi>Rs.</hi> ſaying ſoftly, <hi>'twas St.</hi> Peter<hi>'s Con<g ref="char:EOLhyphen"/>feſſion,</hi>
+                  <note place="margin">
+                     <hi>Conf.</hi> p. 11.</note> 
+                  <hi>on which</hi> Chriſt <hi>built his Church, A. P.</hi> knows nothing on't.</p>
+               <p>A little after the <hi>Dr.</hi> ſays, <hi>A. P.</hi> taxt the
+<hi>Greeks</hi> with being <hi>Lyars,</hi> &amp;c. <hi>A. P.</hi> ſpake this in the <hi>Dr</hi>'s. Opinion: Since the <hi>Greeks</hi> (to ſay nothing of the other Councils) having in the Council of <hi>Florence,</hi> as alſo in two other Councils, Aſſembled in the <hi>Eaſt</hi> ſince the
+<hi>Reformation,</hi> Diſapprov'd, Con<g ref="char:EOLhyphen"/>demn'd, and Anathematiz'd all the
+<hi>Proteſtants</hi> Ne<g ref="char:EOLhyphen"/>gative Articles, the <hi>Dr.</hi> could not but hold them for <hi>Lyars;</hi> and the <hi>Roman Church,</hi> with all others then in the World, being of the ſame Perſwaſion; the <hi>Dr.</hi> muſt allow all thoſe to be <hi>Lyars,</hi> from whom he has receiv'd his Scripture. Now whe<g ref="char:EOLhyphen"/>ther the <hi>Greeks</hi> are <hi>Hereticks</hi> in their Doctrine about the
+<hi>Holy Ghoſt,</hi> it appertaining nothing to the pre<g ref="char:EOLhyphen"/>ſent Controverſy,
+<hi>A. P.</hi> values not.</p>
+               <p>The <hi>Dr.</hi> now proves his <hi>Bible</hi> from a Principle, of which he ſaid not a word in the Conference, <hi>viz.</hi> that all
+<hi>Christians cannot be in a Confederacy to vend a Lye.</hi> Here <hi>A. P.</hi> has gain'd his Point, ſince all
+<pb n="25" facs="tcp:50470:18"/> 
+                  <hi>Chriſtians were in a Confederacy</hi> in receiving the <hi>Canon</hi> of the <hi>Roman Church,</hi> the
+<hi>Vulgata,</hi> and Be<g ref="char:EOLhyphen"/>lief of the now Controverted Articles; no one Par<g ref="char:EOLhyphen"/>cel of them delivering the <hi>Proteſtants Canon,</hi> Text, or Expoſition.</p>
+               <p>The <hi>Dr.</hi> miſtakes, when he aſſerts, that the
+<note place="margin">Ibid.</note> 
+                  <hi>Roman Church proves her Being and Authority out of the Scriptures.</hi> Which is falſe<hi>:</hi> For ſhe proves her ſelf, and her Infallible Authority by all thoſe Argu<g ref="char:EOLhyphen"/>ments, by which the <hi>Dr.</hi> would prove the <hi>Chri<g ref="char:EOLhyphen"/>ſtian Religion</hi> againſt
+<hi>Jews</hi> or <hi>Gentiles,</hi> and then confirms it only by
+<hi>Scripture.</hi>
+               </p>
+               <p>The <hi>Dr.</hi> in his thirteenth Page, as in ſeveral o<g ref="char:EOLhyphen"/>ther places, complains, <hi>That</hi> A. P. <hi>would fix to no<g ref="char:EOLhyphen"/>thing:</hi> That is,
+<hi>A. P.</hi> in two hours and an half would not allow the <hi>Dr.</hi> to paſs from the Queſtion in Debate, though he made ſeveral Offers at it.</p>
+               <p>Next, you have an account of <hi>A. P</hi>'s ſaying in a little heat, <hi>He would be hang'd, knocking the Table</hi>
+                  <note place="margin">
+                     <hi>Confer. p.</hi> 13.</note> 
+                  <hi>thereupon. A. P.</hi> grants both the Words and Actions to be true; and though he ſeem'd then juſtly to be provok'd: Yet he confeſſes it to have been a Fault, and deſires, none may take occaſion of Scandal from it; but rather learn, how in the greateſt Provocations, Men ought to moderate their Paſſions.</p>
+               <p>A little after, you are told, <hi>That the</hi> Greeks
+<hi>have</hi>
+                  <note place="margin">
+                     <hi>Pag.</hi> 14.</note> 
+                  <hi>always had Churches,</hi> which none deny; that <hi>A<g ref="char:EOLhyphen"/>mong the</hi> Latins, <hi>they have Catalogues of Witneſſes againſt the</hi> Romiſh <hi>Errours; and that a true Church (though not as ſuch,) may have many Corruptions.</hi> When the
+<hi>Dr.</hi> ſhall produce his Catalogue; 'twill be then time to examine the Credit of his Wit<g ref="char:EOLhyphen"/>neſſes, and the Validity of their Evidence<hi>:</hi> In the
+<pb n="26" facs="tcp:50470:19"/> mean time <hi>A. P.</hi> allows, That there may in the True Church be Corruptions in <hi>Manners,</hi> though not in
+<hi>Faith.</hi> The <hi>Dr.</hi> goes on, ſaying, <hi>That the preſent Corruptions in the</hi> Roman <hi>Church were not formerly made Articles of Faith. A. P.</hi> abſolutely denies theſe ſuppos'd Corruptions of the
+<hi>Dr</hi>'s, and avers, That the <hi>Dr.</hi> will never be able to ſhew,
+<hi>That St.</hi> Gregory's <hi>Faith was not that, which</hi> Rome <hi>now Teaches.</hi> But that ſome, who call themſelves <hi>Catholicks,</hi> ſhould oppugne the <hi>Synods of the ſecond of</hi> Nice <hi>and</hi> Trent, is no great wonder; ſince all <hi>Hereticks</hi> are deſirous to retain that Name, and fail not to oppugn the Councils, by which they are condemn'd. As to what he ſays concerning <hi>A Doctrine contrary to</hi> Tranſubſtantiation, <hi>Taught in the</hi> Saxon <hi>Church, and ſuch other things,</hi> which (he pretends) <hi>He will prove out of</hi> Beda,
+<hi>Hoveden,</hi> &amp;c. When his Proofs are produc'd, <hi>A. P.</hi> will return him a fair and candid Anſwer.</p>
+               <p>The <hi>Dr.</hi> next ſays, there were <hi>Chriſtians in</hi> Bo<g ref="char:EOLhyphen"/>hemia,
+<note place="margin">Ibid.</note> 
+                  <hi>making the Bible their Rule of Faith.</hi> A. P. grants, that all <hi>Hereticks</hi> have ever done the like, and always taken for their Theme the pretended <hi>Errours</hi> of the Church of <hi>Rome;</hi> and that, be<g ref="char:EOLhyphen"/>cauſe they knew, in that Church (as in the Head and Mother of all others) reſided a Power of Con<g ref="char:EOLhyphen"/>demning them.</p>
+               <p>The <hi>Dr.</hi> aſſerting of <hi>Tranſubſtantiation, That</hi>
+                  <note place="margin">
+                     <hi>Confer. p.</hi> 15.</note> 
+                  <hi>that manner of the Breads becoming CHRIST's Body was invented by</hi> Paſchaſius Radbertus. <hi>A. P.</hi> An<g ref="char:EOLhyphen"/>ſwer'd, That he had nothing to do with
+<hi>Paſchaſius Radbertus;</hi> but that it was Decreed in the great Council of <hi>Lateran:</hi> Whence the <hi>Dr.</hi> infers, <hi>That he err'd in Time near four hundred years.</hi> The Dr.
+<pb n="27" facs="tcp:50470:19"/> by making this Inference, ſeems to have forgotten the very <hi>Rudiments</hi> of <hi>Logick.</hi> A. P. ſays, That he appeal'd to a <hi>General Council,</hi> and troubles not himſelf with a private Man: <hi>Therefore</hi> (ſays the Dr.) <hi>he errs nigh four hundred years in Time.</hi> This is juſt, as if, the Dr. being charg'd with following
+<hi>Luther</hi>'s Tenets; and replying, That he had no<g ref="char:EOLhyphen"/>thing to do with
+<hi>Luther,</hi> but that his <hi>Religion</hi> was eſtabliſh'd by an
+<hi>Engliſh</hi> Parliament, held in the year 1662. It ſhould thence be concluded, that he err'd in Time: Than which nothing could ap<g ref="char:EOLhyphen"/>pear more ridiculous.</p>
+               <p>To contradict, what <hi>A. P.</hi> had affirm'd about
+<note place="margin">
+                     <hi>Conf. p.</hi> 15, 16.</note> the four
+<hi>Patriarchs</hi> being at the Council of <hi>Lateran</hi> either in Perſon, or by their Legates, the Dr. al<g ref="char:EOLhyphen"/>ledges Father <hi>Walſh</hi>'s Letter to the B. of <hi>L.</hi> Now, when F. <hi>Walſh</hi>'s Authority and Name in Hiſtory ſhall be equal to that of <hi>Binnius, Labbè, Carranza,</hi> &amp;c. then <hi>A. P.</hi> will think it worth his Labour to anſwer this Objection<hi>:</hi> But in the mean time he cannot forbear to mind the Dr. once again of his uſual Diſ-ingenuity in appealing to any Paper or Perſon, of how little Credit ſoever, when it makes for his Advantage, and ſlighting the Authority of the moſt Learned and Underſtanding, when quo<g ref="char:EOLhyphen"/>ted againſt him. The account given by
+<hi>Binnius,</hi> concerning this <hi>Council,</hi> with whom the other two agree, is this, <hi>The fourth Council of</hi> Lateran <hi>conſiſted of four hundred Biſhops, and eight hundred other Fathers, Abbots, Deans and Priors of Con<g ref="char:EOLhyphen"/>vents, there aſſiſting at it the Patriarchs of the</hi> Eaſt: <hi>thoſe of</hi> Conſtantinople <hi>and</hi> Hieruſalem <hi>in perſon; and thoſe of</hi> Antioch <hi>and</hi> Alexandria <hi>by their Legats, there being preſent alſo the Ambaſſadors of the</hi> Greek
+<pb n="28" facs="tcp:50470:20"/> 
+                  <hi>and</hi> Roman <hi>Emperours; and of the Kings of</hi> Hieru<g ref="char:EOLhyphen"/>ſalem, France, Spain, England, Aragon, Cyprus,
+<hi>and</hi> Hungary. <hi>'Twas held in the year of our Lord</hi> 1215. <hi>by the Authority of Pope</hi> Innocent <hi>the</hi> III. <hi>in the time of the Emperour</hi> Frederick <hi>the</hi> II. <hi>For reco<g ref="char:EOLhyphen"/>vering the</hi> Holy-Land
+<hi>from the</hi> Turks, <hi>and againſt the</hi> Hereſies <hi>of the</hi> Albigenſes <hi>and</hi> Almaricus, <hi>and the Errours of Abbot</hi> Joachim.</p>
+               <p>In the midſt of this Diſcourſe about the <hi>Lateran</hi>
+                  <note place="margin">
+                     <hi>Conf. p.</hi> 15.</note> Council, the Dr. brings in the paſſage of the Im<g ref="char:EOLhyphen"/>pertinent School-maſter with his Picture, which ought to have been alledg'd ſix Pages before.</p>
+               <p>From Father <hi>Walſh</hi> the Dr. paſſes to <hi>A. P</hi>'s <hi>Bre<g ref="char:EOLhyphen"/>viary</hi>
+                  <note place="margin">
+                     <hi>Conf. p.</hi> 16.</note> and <hi>Written Paper</hi> (though <hi>A. P.</hi> produc'd no ſuch Paper,) and having ſhew'd in one Para<g ref="char:EOLhyphen"/>graph, how the queſtion of
+<hi>Tranſubstantiation,</hi> &amp;c. was now agreed on, and that he appeal'd to the Fathers <hi>(Though he would not take them for his Infal<g ref="char:EOLhyphen"/>lible Judge,)</hi> he preſently taxes <hi>A. P.</hi> that he would
+<note place="margin">
+                     <hi>p.</hi> 17.</note> fix to nothing, and ſoon after complains of Mr. <hi>M.</hi> (whom the Dr. himſelf to avoid the hearing <hi>A. P</hi>'s Teſtimonies had provok'd to it) <hi>That he was draw<g ref="char:EOLhyphen"/>ing</hi>
+                  <note place="margin">
+                     <hi>p</hi> 18.</note> 
+                  <hi>them away from their point.</hi> So that here's <hi>fixing,</hi> and <hi>no fixing</hi> almoſt in a Breath. But here Mr. <hi>M.</hi> intends to have a word with the Dr.</p>
+               <p>The Dr. then ſays, That <hi>He deſir'd</hi> A. P. <hi>to read</hi>
+                  <note place="margin">
+                     <hi>p.</hi> 19.</note> 
+                  <hi>out of his printed Paper the place out of</hi> Juſtin Martyr. Which is a Miſrepreſentation: For <hi>A. P.</hi> having at leaſt twenty times offer'd at it in vain, at laſt took occaſion of the Dr's being out of Breath, to oblige him to hear it.</p>
+               <p>After this, the Dr. having given in his <hi>Narrative</hi> a far different Account of his Senſe of the <hi>Real Preſence,</hi> from what he did in the <hi>Conference</hi> it ſelf
+<pb n="29" facs="tcp:50470:20"/> (as appears in <hi>A. P</hi>'s
+<hi>Account,</hi> to which the <hi>Reader</hi>
+                  <note place="margin">A. P<hi>'s Account of Conf. p.</hi> 12.</note> is referr'd) where he firſt granted it; and then ſaid he would not ſpeak to that Point, paſſes on to a <hi>Quaery</hi> put to <hi>A. P.</hi> by Mr.
+<hi>D. A. C.</hi> viz. <hi>What</hi>
+                  <note place="margin">
+                     <hi>Dr.</hi> T<hi>'s Acc. of Conf. p.</hi>
+20.</note> 
+                  <hi>kind of</hi> Phyloſophy <hi>that was, which maintain'd, that Accidents ſubſiſted without Substance;</hi> and tells you, that <hi>A. P.</hi> ſaying, <hi>'Twas true</hi> Philoſophy; D. <hi>T.</hi> himſelf ask'd, <hi>Whether it was true</hi> Philoſophy <hi>to ſay, there was Whiteneſs without a white thing,</hi> &amp;c. And that it was anſwer'd,
+<hi>GOD could do this. A.</hi> P. ſtands to his Anſwer, and deſires to know of this <hi>Church-Divine,</hi> who meaſures his <hi>Faith</hi> by his
+<hi>Phy<g ref="char:EOLhyphen"/>loſophy, By what principle of</hi> Phyloſophy <hi>he conceives</hi> GOD <hi>to have made all things of nothing; to have Phyſically united his Divine to our Humane Nature; to be Three and One in the ſame indiviſible Subſtance: What</hi> Phyloſophy <hi>teaches the Reſurrection of the Dead, and the waſhing our Soul by</hi> Baptiſm. Now <hi>A. P.</hi> has been inſtructed, firſt to ſee what <hi>Faith</hi> Teaches, and then to weigh it in the <hi>Ballance of Phyloſophy;</hi> and if it ſurpaſs the reach of
+<hi>Natural Diſcourſe,</hi> rather to renounce the <hi>Principles of Phy<g ref="char:EOLhyphen"/>loſophy,</hi> than the <hi>Articles</hi> of his <hi>Faith.</hi> As for the <hi>Contradiction</hi> Mr. <hi>D. A. C.</hi> is ſaid to have diſco<g ref="char:EOLhyphen"/>ver'd in the Doctrine of <hi>Tranſubstantiation: A. P.</hi> aſſerts, that Mr. <hi>D. A. C.</hi> ſhall never with all his skill in
+<hi>Logick</hi> be able to make a <hi>Syllogiſm,</hi> that im<g ref="char:EOLhyphen"/>plies a
+<hi>Contradiction,</hi> in any of the Tenets of the <hi>Roman Catholick Church.</hi> It might be wiſh'd, that the conceited Wits of our Time had more
+<hi>Humility,</hi> and leſs <hi>Vanity:</hi> For thence would proceed more Inclination to <hi>Faith,</hi> and leſs to <hi>Atheiſm.</hi>
+               </p>
+               <p>
+                  <pb n="30" facs="tcp:50470:21"/> Then the <hi>Dr.</hi> alledges the Teſtimony of <hi>Coſte<g ref="char:EOLhyphen"/>rus,</hi> who grants, that, if <hi>CHRIST</hi> be not really preſent in the <hi>Euchariſt, The Worſhiping of it would be worſe Idolatry than that of the</hi> Laplanders, <hi>who Worſhiped a Red-cloath.</hi> And A. P. adds, that, if <hi>CHRIST</hi> be really there, (for the belief of which there is fourty to one on <hi>A. P</hi>'s ſide) the de<g ref="char:EOLhyphen"/>nying it Divine Worſhip, would prove the higheſt Impiety, beſides the violating a Divine Precept of Eating his Sacred Body, incumbent on all, who are arriv'd at the years of Diſcretion. This puts me in mind of an
+<hi>Atheiſtical Expreſſion,</hi> which fell from one of our
+<hi>Proteſtant</hi> Bigots, who ſeeing be<g ref="char:EOLhyphen"/>yond-Sea a Perſon of great Quality and Riches leave all, to become a poor <hi>Capucin,</hi> ſaid,
+<hi>How will this poor Gentleman be gull'd, if after all, there be no GOD?</hi> To which Sacrilegious Impiety a ſtander by, reply'd, <hi>But how will you be gull'd, Sir, if there prove to be a</hi> GOD? To apply this, How great will be the Confuſion of Dr. <hi>T.</hi> at the day of Judgement, when he ſhall find the <hi>Catholick</hi> Tenet true; whereas if <hi>A. P.</hi> ſhould (to ſuppoſe an Impoſſibility,) find it otherwiſe, he will not have the leaſt Reaſon to appear confounded, ſince he had the ſame Ground to believe <hi>Tranſubstantia<g ref="char:EOLhyphen"/>tion,</hi> as the <hi>Bleſſed Trinity.</hi>
+               </p>
+               <p>Here the Dr. repeats, that <hi>A. P. was again</hi>
+                  <note place="margin">
+                     <hi>Confer. p</hi> 21.</note> 
+                  <hi>deſir'd to ſtick to ſomething;</hi> where <hi>A. P.</hi> in near an hour and a half could only edge in two Quotations, whilſt the Dr. rambled through twenty impertinent Subjects, moſt of which he has miſplac'd; though here you find him by his own account, running on no occaſion, to that of St. <hi>Matthew, Hear the</hi>
+                  <note place="margin">Matt. c 18.</note> 
+                  <hi>Church:</hi> Which every one ſees, how it was to
+<pb n="31" facs="tcp:50470:21"/> the Quotations, <hi>A. P.</hi> was always preſſing him to
+<note place="margin">
+                     <hi>A. P.</hi> Acc. of Conf. <hi>p.</hi> 13,
+14.</note> hear<hi>:</hi> Concerning which, ſee <hi>A. P</hi>'s. account.</p>
+               <p>The Dr. adds, <hi>That it was reſolv'd, that</hi> Dr. T.
+<note place="margin">Dr. <hi>T</hi>'s Acc. of Conf. p. 22.</note>
+                  <hi>ſhould write of this matter, and of St.</hi> Ambroſe, <hi>St.</hi> Cyril, <hi>and</hi> Juſtin Martyr <hi>to Mr.</hi> P. <hi>and receive his anſwer:</hi> In which there is as much Truth, as in the matter of Fact, he repreſented in his <hi>4th.</hi> Page.</p>
+               <p>The Dr. would willingly have, what he ſaid
+<note place="margin">
+                     <hi>Ibid. p.</hi> 23.</note> touhing
+<hi>Papiſts,</hi> being <hi>Breakers of their Words, to paſs for a perſonal affront put upon</hi> A. P. But <hi>A. P.</hi> has given you a moſt ſincere and modeſt Account of it, in his Relation of the Conference; and
+<note place="margin">
+                     <hi>A P</hi>'s Acc. of Conf. p. 14, 15.</note> Mr. <hi>M.</hi> being on this occaſion moſt foully aſpers'd by the Dr. will add to it what is pertinent.</p>
+               <p>The Dr. drawing to a concluſion of the Confe<g ref="char:EOLhyphen"/>rence, ſays,
+<hi>That having charg'd</hi> A. P. <hi>with being of</hi>
+                  <note place="margin">D. <hi>T</hi>'s Acc. p. 24</note> 
+                  <hi>an Order, who had brought in a Foreign Juriſdiction,</hi>
+                  <note place="margin">
+                     <hi>Note,</hi> That <hi>A. P.</hi> only ſpoke of a Spi<g ref="char:EOLhyphen"/>ritual Juriſ<g ref="char:EOLhyphen"/>diction.</note> A. P. <hi>aſserted, That the</hi> Pope <hi>had had a Right of Juriſdiction here a Thouſand Years, and that</hi> Dr. T. <hi>ought not therefore to call it Foreign;</hi> and that
+<hi>Dr. T. ſaid theſe were dangerous words.</hi> A. P. in this matter refers himſelf to the Judgement of His moſt Sa<g ref="char:EOLhyphen"/>cred MAJESTY, who alone can be injur'd by that Aſſertion<hi>:</hi> As for what concerns the Biſhops and Clergy of the Church of <hi>England,</hi> they muſt ei<g ref="char:EOLhyphen"/>ther derive their Orders and Spiritual Power from the <hi>See</hi> of <hi>Rome,</hi> or elſe they will never be able to make out, they have any at all.</p>
+               <p>The Dr. here omits <hi>A. P</hi>'s. ſmart (but juſt) re<g ref="char:EOLhyphen"/>turn to his charging <hi>A. P</hi>'s. Order with <hi>the Depo<g ref="char:EOLhyphen"/>ſing Power,</hi> in which <hi>A. P.</hi> ſhew'd, that, whatever ſome private Men amongſt the
+<hi>Catholicks had Judg'd in the Theory, it was the Reformers who re<g ref="char:EOLhyphen"/>duc'd</hi>
+                  <note place="margin">
+                     <hi>A.</hi> P's Acc. 17, 18.</note> 
+                  <hi>it to Practice.</hi> In reference to which, <hi>A. P.</hi>
+                  <pb n="32" facs="tcp:50470:22"/> (beſides what he has already alledg'd,) has many <hi>Remarks</hi> in ſtore; which he will produce, if far<g ref="char:EOLhyphen"/>ther provok'd. The Religion and Principles of the late Unfortunate D. of
+<hi>Monmouth</hi> are but too well known; nor are we ignorant, who it was, that aſſiſted the Traytor <hi>Armſtrong</hi> at his unhappy <hi>Exit,</hi> without obliging him to an humble <hi>Confeſ<g ref="char:EOLhyphen"/>ſion</hi> of his Crimes, and an acknowledgement of the Injury done to his King and Country.</p>
+               <p>As for the Paper, left by Mr. <hi>M.</hi> the Reader is
+<note place="margin">Dr. <hi>T</hi>'s Acc. p. 24.</note> by <hi>A. P.</hi> refer'd to him, whom it more immediate<g ref="char:EOLhyphen"/>ly concerns: And for the calling of the <hi>Conſtable</hi> by the Son of Mr. <hi>J.</hi> it was not altogether impru<g ref="char:EOLhyphen"/>dently thought of, the Diſorder being very great towards the end of the
+<hi>Conference;</hi> and the Dr's throwing out ſuch malicious Propoſitions, as ar<g ref="char:EOLhyphen"/>gu'd nothing but an imbitter'd Spirit againſt <hi>A. P.</hi> and his Religion, ſeconded by the rude Clamours of the Dr's Adherents, might give ſome ſuſpition of a beginning a Ryot.</p>
+               <p>The Dr. having now ended his Relation of the
+<hi>Conference,</hi> returns afreſh to Reproach and Defa<g ref="char:EOLhyphen"/>mation (a vein of which, little becoming the Cha<g ref="char:EOLhyphen"/>rity, he Hypocritically pretends to,) runs indeed through his whole Diſcourſe; and repeats, that the Boy, <hi>Since he had been in this new way, had troubled the Houſe, miſ-ſpent his Time, and become</hi>
+                  <note place="margin">
+                     <hi>Ibid.</hi> p. 25.</note> 
+                  <hi>an intollerable Lyar;</hi> and in general, <hi>That he was much worſe in his Morals, ſince he had been tam<g ref="char:EOLhyphen"/>per'd with.</hi> This is ſo vile a Calumny, that <hi>A. P.</hi> (though repreſented by the Dr. as a leſs calm man) has not Gall enough to return it upon his Doctor<g ref="char:EOLhyphen"/>ſhip, as he deſerves. Did the Dr. know as much of <hi>Catholicks</hi> Morals, as <hi>A. P.</hi> does, and had he
+<pb n="33" facs="tcp:50470:22"/> ſeen (by living Abroad, as <hi>A. P.</hi> has done,) how much they ſurpaſs the Morality of the pretended
+<hi>Reformers,</hi> he would be aſham'd of thus injuriouſly and ſhameleſly re<g ref="char:EOLhyphen"/>preſenting the <hi>Catholicks,</hi> as Corrupters of Morals. <hi>A. P.</hi> therefore moſt ſincerely affirms, that during the ſpace of eighteen years he has been Abroad, he has ſeen more Ex<g ref="char:EOLhyphen"/>amples of true <hi>Christian Piety, Fear of GOD,</hi> and <hi>Senſe of another Life,</hi> in any one Month thereof amongſt <hi>Ca<g ref="char:EOLhyphen"/>tholicks,</hi> even in the meaneſt Towns, than he has been able to obſerve by his Eyes, or learn by his Ears, in this pretended <hi>Reform'd Church</hi> theſe five Months he has paſs'd in <hi>England</hi> ſince his return. Nor yet is he ſo Partial to his own Church, as not to grant, that there are many ill Livers in it; but he has made this <hi>Remark,</hi> that in time of Perſecution, ſuch as theſe, who Scandaliz'd their Bre<g ref="char:EOLhyphen"/>thren by their ill Deportment, became forſooth of the <hi>Reform'd Church,</hi> and were eſteem'd by the Party a Cre<g ref="char:EOLhyphen"/>dit to them, though well known to the World to be of moſt flagitious Lives and Converſation. But <hi>A. P.</hi> is un<g ref="char:EOLhyphen"/>willing to diſoblige his Reader by ſuch ſevere Reflections, as begin to flow but too kindly in this unkind ſubject, though he has a Reſerve for the <hi>Dr.</hi> if ever he touch this ſtring again.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Singular Effects of</hi> Dr. T<hi>'s Conference.</hi>
+               </head>
+               <p>THe <hi>Dr.</hi> goes on, and tells you, that the Boy was gone before the <hi>Conference.</hi> If ſo, why did he meet? But this is a ſtroke of the <hi>Dr</hi>'s Artifice to palliate his not bearing away the Prize<hi>:</hi> For the Boy was not reconcil<g ref="char:punc">▪</g>d till ten days after. Now beſides the Boy, there are (for the <hi>Dr</hi>'s Credit) at leaſt two more a gaining to the <hi>Roman</hi>
+                  <note place="margin">Note, <hi>That the Report of a</hi> Ca<g ref="char:EOLhyphen"/>tholick Lady <hi>leaving the</hi> Ro<g ref="char:EOLhyphen"/>man Church, <hi>is falſe.</hi>
+                  </note>
+                  <hi>Catholick</hi> Religion, mov'd by the force of the <hi>Dr</hi>'s victo<g ref="char:EOLhyphen"/>rious Arguments; and had <hi>A. P.</hi> had the liberty of a fair
+<hi>Conference,</hi> he queſtions not, but he ſhould have been yet more Succeſsful The <hi>Dr.</hi> indeed ſays well, that Mr. <hi>
+                     <g ref="char:V">Ʋ</g>.</hi> and Mrs. <hi>
+                     <g ref="char:V">Ʋ</g>. Were not Stagger'd, but Confirm'd;</hi> doubtleſs in a true Religion: For they have both made a Trade of Defaming the Innocent, and Selling falſe Reports ever
+<pb n="34" facs="tcp:50470:23"/> ſince, which <hi>A. P.</hi> will prove to their Faces, when they pleaſe; and exacts of them, that they ſend him the Names of his Fellow <hi>Jeſuits</hi> and <hi>Priests,</hi> or at leaſt how they knew them to be ſuch, and who thoſe Nine or Ten were, who (as they have told <hi>A. P</hi>'s neareſt Relations) came with him. Now <hi>A. P.</hi> to give them a civil <hi>Item,</hi> acquaints them, that ſome have Bought ſeveral things of them, on deſign to hear their Story: So that, if their Apprentice has learn'd to Lye, the World may be ſatiſ<g ref="char:EOLhyphen"/>fied, who he has had for his Maſter and Miſtreſs. <hi>A. P.</hi> once deſign'd to oblige Mr. <hi>
+                     <g ref="char:V">Ʋ</g>.</hi> and Mrs. <hi>
+                     <g ref="char:V">Ʋ</g>.</hi> by a publick Notary to deliver the matter of Fact; but on ſecond Thoughts he reſolv'd to let them take their ſwing, ſo to be better inform'd, of the Stories they have told. The In<g ref="char:EOLhyphen"/>nocent Apprentice, having been Defam'd by common Spreaders of falſe Reports, deſires, the World will con<g ref="char:EOLhyphen"/>ſider, how far their Teſtimony is to be Credited; and he Pities the Dr. for being ſo led by the Noſe, as to believe on the Word of ſuch Perſons, That to be true, which he knew by his own certain knowledge to be otherwiſe.</p>
+               <p>
+                  <hi>A P.</hi> farther informs the World, that he has lately re<g ref="char:EOLhyphen"/>concil'd two zealous <hi>Proteſtants;</hi> one of which had been with the Dr. and ſincerely deſir'd to be ſatisfy'd in the following
+<hi>Queries.</hi>
+               </p>
+               <p>Firſt, <hi>How the</hi> Dr. <hi>could make appear, that the</hi> Prote<g ref="char:EOLhyphen"/>ſtant <hi>Religion deſcended by an un-interrupted Succeſſion from the Apoſtles.</hi>
+               </p>
+               <p>The Dr. anſwer'd<g ref="char:punc">▪</g> 
+                  <hi>He muſt have ten thouſand Pounds worth of Books to ſhew that:</hi> So that <hi>A. P.</hi> perceives this to be the Thred-bare Anſwer to that <hi>trivial Queſtion;</hi> or, if you pleaſe, the Fatal Edge, wherewith he cuts the <hi>Gordian</hi> knot, which no Reform'd Dr. could ever yet untie. Now the Party thought, this Anſwer fell ſhort of the Expectation, conceiv'd of ſo renown'd a Champion, and that he ought to have at leaſt ſome confus'd know<g ref="char:EOLhyphen"/>ledge of ſo material a Succeſſion. <hi>A. P.</hi> will at a quarter of an Hours warning prove at a far eaſier rate the Suc<g ref="char:EOLhyphen"/>ceſſion of his Church, whenever the Dr. pleaſes.</p>
+               <p>
+                  <pb n="35" facs="tcp:50470:23"/> The ſecond <hi>Quaery</hi> was, <hi>How the Church of</hi> England, <hi>granting her ſelf to be Fallible (and, for ought ſhe knows, in actual Errour) could be the Church, built upon a Rock, a<g ref="char:EOLhyphen"/>gainst which Hell ſhould never prevail.</hi>
+               </p>
+               <p>Here the <hi>Dr.</hi> grew a little warm, and call'd the Party
+<hi>Impertinent, Impudent,</hi> &amp;c. ſaid, <hi>That theſe were</hi> Quaeries <hi>to entrap him, that the Party had been Tutour'd by ſome</hi> Je<g ref="char:EOLhyphen"/>ſuit, <hi>&amp;c</hi> Now this was a moſt Doctor-like and direct Anſwer, and enough to keep the moſt fluctuating Mind in an equal Ballance, and fix it to the Rock of Truth.</p>
+               <p>The third <hi>Quaery</hi> was, <hi>Whether one might ſecurely before GOD believe that the infinite number of Miracles, related by moſt virtuous and learned Men in all Ages to have been wrought in Confirmation of the</hi> Roman Catholick <hi>Faith, were all Lies, Cheats, and Fictions of Impoſtures.</hi> If ſo, then there was no more Faith to be given to Man, and the Church of <hi>England</hi> would fall to nothing, being grounded on a Preſumption, borrow'd from pretended Hiſtories, of Innovation and Corruptions in the <hi>Romiſh</hi> Church; if not, that is, if theſe Miracles ought to be be<g ref="char:EOLhyphen"/>liev'd, then again the <hi>Reformation</hi> ſeem'd defeated, ſince <hi>GOD</hi> (who can't be Author of a Lye,) had poſitively acted for the <hi>Roman</hi> Church againſt that of <hi>England.</hi>
+               </p>
+               <p>Now this was an horned Beaſt of a <hi>Query,</hi> which rais'd the <hi>Dr</hi>'s Warmneſs to a great height, which he mainly diſcharg'd on his dubious Client. And a direct Anſwer not occurring, (as indeed there could not) he us'd an in<g ref="char:EOLhyphen"/>direct way of arguing, and took an oblique ſtroke, able to give an eternal overthrow to the <hi>Roman</hi> Church. <hi>You talk,</hi> (ſaid he) <hi>of Miracles in the</hi> Romiſh <hi>Church, I'le ſhew in one Example, what credit they are of: There was upon a time a certain Priest, who got Money by expoſing the Head of a pretended Saint to the Peoples Chari<g ref="char:EOLhyphen"/>table Veneration. Now, as Providence would have it, a Chirurgion, on what ſuſpition I know not, pierc'd this Saint<g ref="char:EOLhyphen"/>ly Head with his Lance, and found it to be a piece of Parch<g ref="char:EOLhyphen"/>ment. Now,</hi> ſaid he, <hi>tell me of</hi> Roman
+<hi>Miracles again.</hi> This was certainly the happieſt ſtroke of a Lance, we ſhall ever find mention'd in Hiſtory: If his Hand was not
+<pb n="36" facs="tcp:50470:24"/> that of a Lady, his Eyes were at leaſt thoſe of an Eagle, and his Heart of a Lyon. I wonder this Chirurgion is not Canoniz'd by the pretended Reformers for thus total<g ref="char:EOLhyphen"/>ly routing the
+<hi>Romiſh</hi> Church. What need then of tum<g ref="char:EOLhyphen"/>bling over Concordances, and beating mens Brains, to ſearch out miſ-apply'd Texts of Scripture, and bring them in by Head and Shoulders againſt <hi>Popery,</hi> an In<g ref="char:EOLhyphen"/>ſtance whereof we have in that learn'd Catechiſm, lately cry'd about the Streets; and, to give it the greater Cre<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, Father'd on our <hi>Dr.</hi> when this one Story of the Chi<g ref="char:EOLhyphen"/>rurgion, with the help of Dr. <hi>T</hi>'s Application, would every whit as well do the Feat and be as much to the purpoſe: As you may ſee by this
+<hi>Specimen.</hi> Maſter, <hi>Were there ever any Miracles wrought in the</hi> Roman Church <hi>theſe twelve hundred years<g ref="char:punc">▪</g>
+                  </hi> Scholar,
+<hi>No, for there was a Chirur<g ref="char:EOLhyphen"/>gion,</hi> &amp;c. Maſter, <hi>Muſt we then believe, that all thoſe, re<g ref="char:EOLhyphen"/>counted by St.</hi> Auguſtin, <hi>St.</hi> Gregory, <hi>St.</hi> Bernard, <hi>Vene<g ref="char:EOLhyphen"/>rable</hi> Beda, <hi>and infinite others, were ſo many Impoſtures?</hi> Scholar, <hi>Yes, for there was a Chirurgion,</hi> &amp;c. Can any man be ſo unreaſonable, as to deſire a more irrefragable Proof of the <hi>Roman Churches</hi> Errours.</p>
+               <p>But <hi>A. P.</hi> (not to injure the <hi>Dr.)</hi> grants, that he added another Story, to fix this wavering mind, in an averſion to the
+<hi>Roman</hi> Church, and it was of a Perſon of his own acquaintance, who had been at <hi>Rome,</hi> where he had known thoſe, <hi>who for Six pence a month, obtain'd a Diſpen<g ref="char:EOLhyphen"/>ſation to live at diſcretion, and violate the Commands of</hi> God <hi>and the</hi> Church <hi>at pleaſure.</hi> Now had this Story fall'n from Dr. <hi>Titus</hi>'s mouth (when he was eſteem'd the
+<hi>Savi<g ref="char:EOLhyphen"/>our of the Nation) A. P.</hi> tho' knowing it to be falſe, would not yet have dar'd to contradict it, when iſſuing from ſuch venerable Lips. But having it only from Dr. <hi>T.</hi> (who cannot be thought more Infallible than his Church) <hi>A. P.</hi> craves leave to ſay, That if the <hi>Dr.</hi> really believes this Story, he ſhews himſelf very weak, and altogether ignorant of the <hi>Catholick Tenets;</hi> But if not believing it himſelf, he makes uſe of it only to impoſe on the credu<g ref="char:EOLhyphen"/>lity of others, 'tis an Argument of far greater inſincerity and diſ-ingenuity, than <hi>A. P.</hi> deſires the <hi>Dr.</hi> ſhould be guilty of.</p>
+               <p>
+                  <pb n="37" facs="tcp:50470:24"/> To theſe Stories, the Party (who truly went to the <hi>Dr.</hi> with a great opinion of his Abilities) reply'd very well. If it ſhould be granted, that there may have been a Prieſt ſo wicked, as to expoſe falſe <hi>Relicks,</hi> does it thence follow,
+<hi>That there was never any true Miracle?</hi> And ſhould there be found one ſo ridiculouſly impudent, as to delude ſome ignorant Soul, by giving a pretended leave to ſin, <hi>Is it therefore ſufficiently prov'd, that this is the Doctrine of the</hi> Roman <hi>Church? Muſt I ceaſe to believe in</hi> Chriſt, <hi>becauſe</hi> Peter <hi>deny'd him, and</hi> Judas,
+<hi>(equally train'd up in his School) betray'd him?</hi> Here the <hi>Dr.</hi> diſmiſs'd his Pariſhioner, as obſtinate, and unworthy of any further Inſtruction, who is now a very good <hi>Roman Catholick;</hi> as is alſo a ſecond, who expected the Learned Solution of the above men<g ref="char:EOLhyphen"/>tioned
+<hi>Queries. A. P.</hi> therefore takes the liberty to give the <hi>Dr.</hi> this Friendly Advice, <hi>That he addict not himſelf much for the future, to this way of Tale-telling, which, how grateful ſoever it may be to the Rabble and Scum of the People, who are often delighted with ſuch ſhallow Raileries, is yet very diſtaſtful to the ſober ſort, who cannot but ſee through ſuch Net-work-Sophiſtry at the firſt appearance. A. P.</hi> has a reſerve of ſuch-like effects, of the <hi>Dr</hi>'s won<g ref="char:EOLhyphen"/>derful Query-reſolving Faculty; but this may ſuffice at preſent.</p>
+               <p>Whoever ſhall have read Dr. <hi>T</hi>'s moſt Injurious and Scandalous Aſperſions, caſt on <hi>A. P.</hi> in his own Perſon, whom he repreſents as a <hi>Falſifier, a Man who has not com<g ref="char:EOLhyphen"/>mon skill in Hiſtory, a Violator of the Holy-day,</hi> &amp;c. on the Inſtitute of his Order, which he charges with <hi>bringing in Foreign Juriſdiction, and teaching the Depoſing-Power;</hi> and on his Religion in general, which he accuſes <hi>of obliging People to break their words;</hi> of teaching to
+<hi>Lye, to be Idle, <g ref="char:V">Ʋ</g>neaſy to others,</hi> and of making its Followers
+<hi>worſe in their Morals;</hi> will not wonder that <hi>A. P.</hi> has endeavour'd to vindicate himſelf, which notwithſtanding, he has endea<g ref="char:EOLhyphen"/>vour'd to do with all the Modeſty, ſo foul a charge could permit.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="38" facs="tcp:50470:25"/>
+            <head>POSTSCRIPT. <hi>An account of what</hi> A. P. <hi>deſigns in his next</hi> PAPER.</head>
+            <p>
+               <hi>A. P.</hi> as faſt as his Religious duties, of near five, and School-imployments of ſix hours a day will allow, will give the
+<hi>Dr.</hi> a full Anſwer to the remnant of his 12 Sheets, wherein he will ſhew, firſt the <hi>Dr</hi>'s Exceptions againſt St.
+<note place="margin">Quia benidicti<g ref="char:EOLhyphen"/>one etiam na<g ref="char:EOLhyphen"/>tura ipſa mu<g ref="char:EOLhyphen"/>tatur. Sermo igitur Chriſti, qui po<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rat ex ni<g ref="char:EOLhyphen"/>hilo facere quod non erat, non poteſt ea quae ſunt, in id. mutare quod non erat. <hi>In lib. de iis qui M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ. initiuntur.</hi> Note,
+<hi>that not one word was Quoted out of St.</hi> Cyiril, <hi>in the Conference.</hi>
+               </note> 
+               <hi>Ambroſe</hi>'s Works, <hi>de Sacram.</hi> to be very weak, and con<g ref="char:EOLhyphen"/>tradictory; and that St. <hi>Ambroſe</hi> is evidently againſt the <hi>Dr.</hi> witneſs at preſent only one Text out of an undou<g ref="char:EOLhyphen"/>bted work Which the <hi>Dr.</hi> refus'd to hear in the Conference.
+<hi>You may ſay perchance; I ſee another thing, why do you aſſert that I take the Body of</hi> Chriſt? <hi>The</hi> Saint Anſwers, <hi>How many examples do we uſe, to prove that this is not what Nature has Fram'd, but what the Bleſſing has Conſecrated? and that the force of the Bleſſing, is greater than that of Nature; be<g ref="char:EOLhyphen"/>cauſe by the Bleſſing, the very Nature it ſelf is changed,</hi> and alledges the example of
+<hi>Moſes</hi>'s Rod. <hi>The Word therefore of</hi> Chriſt <hi>which made all things out of nothing, can it not change one thing into another? For it is not leſs powerful to give a new Nature, than to change Natures given.
+2dly.</hi> That he has (like <hi>E. S.</hi> from whom he has borow'd it) Quoted St. <hi>Cyril,</hi> moſt diſingenuouſly leaving out that Text, which if cited, would have left no place
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> of doubting, but that he makes for the <hi>Roman Catholick</hi> Tenet: part of it is as follows,
+<hi>That which ſeems Bread, is not Bread, although to the Taste it appears to be ſo, but it is the</hi> Body <hi>of Chriſt.</hi> He that cavils about ſuch a Text, has doubtleſs, <hi>great Humility of Soul,</hi> and notable diſpoſitions to Faith, <hi>3dly.</hi> That the <hi>Dr</hi>'s Notes againſt <hi>Justin Martyr<g ref="char:punc">▪</g>
+               </hi> are of no force at all.</p>
+            <div type="section">
+               <pb n="39" facs="tcp:50470:25"/>
+               <head>
+                  <hi>Remarks upon Letters Printed by Dr.</hi> Teniſon.</head>
+               <p>
+                  <hi>1ſt. A. P.</hi> Thinks the <hi>Dr.</hi> might have been ſo civil as to acquaint him with his intentions, ſince that he thought it neceſſary to make his <hi>Letters</hi> publick; but this is like the
+<note place="margin">What Text of Scripture makes for pu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liſhing private Letters?</note> reſt of the <hi>Doctors</hi> Charitable Procedure. 2<hi>d.</hi> He has very injuriouſly concealed <hi>A. P</hi>'s fifth <hi>Letter,</hi> which was the moſt material of all, as containing <hi>A. P</hi>'s clearing himſelf from the <hi>Dr</hi>'s falſe aſperſion, whereby he charges <hi>A. P.</hi> with not having ſtood to the Agreement. 3<hi>d. A. P.</hi> finds ſeveral falſe Writings in the <hi>Dr</hi>'s Print, which he is mo<g ref="char:EOLhyphen"/>rally certain he never was Author of: but this may paſs with the reſt of the <hi>Dr</hi>'s Ingenuity.
+<hi>4th.</hi> The Youths Letter with two or three lines bearing appearance of
+<hi>A. P</hi>'s hand, was carried to the <hi>Dr.</hi> by Mr. <hi>
+                     <g ref="char:V">Ʋ</g>.</hi> who broke open the Boys Cheſt, took out the Letter, and made a preſent of it to the <hi>Dr.</hi> Now this was certainly nothing againſt Morality; but argued a Goſpel liberty, like that of the ſaid Mr. <hi>
+                     <g ref="char:V">Ʋ</g>.</hi>
+                  <g ref="char:punc">▪</g>s, who (to ſpite his <hi>Catholick</hi> Appren<g ref="char:EOLhyphen"/>tice, and to ſhew his reſpect to the
+<hi>Common-Prayer-Book)</hi> changed in his Family the Abſtinence of Fleſh on <hi>Friday</hi> and <hi>Saturday,</hi> into <hi>Wedneſday</hi> and
+<hi>Thurſday,</hi> that ſo the Youth might be compell'd to eat Fleſh on
+<hi>Friday</hi> and <hi>Sa<g ref="char:EOLhyphen"/>turday,</hi> or faſt four days together: Who now will doubt but Mr. <hi>
+                     <g ref="char:V">Ʋ</g>.</hi> is confirm'd in his Religion?</p>
+               <p>Now <hi>A. P.</hi> in his next, will do Dr. <hi>T.</hi> the Juſtice, to put his <hi>Learned Reply</hi> to the Youths <hi>Letter,</hi> in School<g ref="char:EOLhyphen"/>form, that the World may ſee the force of the <hi>Dr</hi>'s So<g ref="char:EOLhyphen"/>phiſtry, of which take now a ſhort Eſſay. Againſt <hi>
+                     <g ref="char:V">Ʋ</g>nity of Faith in the Roman Catholick Church,</hi> alledged by the Youth, as one of his Motives, the <hi>Dr.</hi> objects, the <hi>Janſe<g ref="char:EOLhyphen"/>niſts, Blackloiſts,</hi> and <hi>Molinists,</hi> condemn'd by the <hi>Roman Church.</hi> Now in form, it muſt run thus, <hi>There is no <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>on in that Church which by her juſt cenſures does reclaim, or cut off thoſe, who broach new and falſe Doctrines; But the Church of</hi> Rome <hi>has ſo reclaim'd, or cut off thoſe who began ſuch Doctrines:</hi> Therefore <hi>in the Church of</hi> Rome <hi>there is no <g ref="char:V">Ʋ</g>nion.</hi> Now, <hi>è contra,</hi> for the Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                  <pb n="40" facs="tcp:50470:26"/> In <hi>that Church <g ref="char:V">Ʋ</g>nity is preſerved where Spreaders of various, (Doctrines in points neceſſary to Faith) can't be juſtly condemn'd,</hi> but in the Church of <hi>England,</hi> Spreaders of various Doctrines, in Points neceſſary to Faith, can't be juſtly condemn'd (as grounding themſelves on the ſame Rule of Faith with that Church, I mean Scripture.) Therefore, <hi>in the Church of</hi> England <hi>is preſerv'd <g ref="char:V">Ʋ</g>nity of Faith.</hi> Argued certainly like a Doctor; yet this muſt be the Senſe of his Argument, if any. Againſt the <hi>Spirit of Miſſions in the Catholick Church</hi> (another of the Youths
+<note place="margin">Note, <hi>that the</hi> Jeſuits <hi>(whom the</hi> Dr. <hi>ſo much loves) are actu<g ref="char:EOLhyphen"/>ally Preaching in the moſt Barbarous and Deſolate Coun<g ref="char:EOLhyphen"/>tries in the World.</hi>
+                  </note> Motives) the
+<hi>Dr.</hi> Learnedly objects, as follows. <hi>There is no Zeal of Souls in that Church which ſends Miſſions into Warm, Rich, and Populous Countries;</hi> But the <hi>Ch. of</hi> Rome <hi>ſends ſuch Miſſions,</hi> therefore <hi>ſhe has no Zeal of Souls.</hi> Con<g ref="char:EOLhyphen"/>firmatur, St. <hi>Peter</hi> Preach'd at <hi>Rome,</hi> St. <hi>Paul</hi> in
+<hi>Greece,</hi> St. <hi>James</hi> in <hi>Spain,</hi> St. <hi>Thomas</hi> in the <hi>Indies,</hi> all Rich and Plentiful Countries, but they had no Zeal of Souls; therefore a <hi>Pari.</hi> Bravely ſpoken Dr. the <hi>Jews</hi> will thank you for this, as alſo for your Text againſt croſſing the
+<note place="margin">
+                     <hi>Dr's Narrative</hi> page 76.</note> Seas, which proves notably for the Synagogue againſt the Apoſtles. The Zeal of the Church of <hi>Rome</hi> being beat down, let us Eſtabliſh that of the Church of <hi>England. There is true Zeal of Souls, where the Miniſters of the Goſpel care not what becomes of the reſt of the World, ſo they can ob<g ref="char:EOLhyphen"/>tain good Livings to maintain their</hi> Godly Conſorts, <hi>and</hi> Levitical <hi>Off-ſpring.</hi> But <hi>this is the Zeal of the Miniſters of the Church of</hi> England. <hi>Ergo.</hi>
+               </p>
+               <p>This may ſerve at preſent, for an <hi>item</hi> for what's to come; which the <hi>Dr.</hi> ſhall have at large, as ſoon as <hi>A: P.</hi> ſhall have receiv'd the <hi>Dr</hi>'s Vindication of his Rule of Faith, impugned; and if I miſtake not, prov'd Null by <hi>A. P.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="41" facs="tcp:50470:26"/>
+               <head>A. P's <hi>Anſwer to the Vindication of</hi> A. Chreſner,
+<hi>&amp;c.</hi>
+               </head>
+               <p>SInce Mr. <hi>A. Chreſner</hi> School-Maſter in
+<hi>Long-Acre,</hi> has thought fit to write a <hi>Vindication from the</hi> pretended <hi>Aſperſions of</hi> A. P. Jeſuit, <hi>and School-Maſter in the</hi> Savoy. <hi>A. P.</hi> acknowledges, that no uncivil rudeneſs ought to have forc'd the Word Buffoon from his Lips. However, ſince <hi>A. C.</hi> has provoked <hi>our Jeſuit,</hi> it is fitting the World ſhould be a little farther inſtructed of the beha<g ref="char:EOLhyphen"/>viour of <hi>A. C.</hi> during the Conference: and then Judge whe<g ref="char:EOLhyphen"/>ther at leaſt upon a Stage, he would not have deſerved that Character?</p>
+               <p>As ſoon as he came into the Room, facing <hi>A. P.</hi> he began to knit his Brow, contort his Eyes, draw his Mouth into moſt un-natural ſhapes, and cut as many Faces, and as ugly, as the greateſt Profeſſor of that Art could do. <hi>A P.</hi> not accuſtom'd to ſuch grimaces, ſaid very calmly, <hi>Pray Sir look mors ſweetly on't;</hi> but <hi>A. C.</hi> continu<g ref="char:EOLhyphen"/>ing his mute Scene, <hi>A. P.</hi> asked him if in any thing he had offended him? and why he ſhew'd ſo much diſdain and rancor in his Countenance? Then breaking his mute Courtſhip, with a very ugly look, ſtay, ſays he <hi>You cited a falſe Council for the Marks of the True Church, in your Catechiſing.</hi> How ſo, reply'd <hi>A. P. Why you cited the</hi> 2d. Council <hi>of</hi> Nice. A. P. <hi>anſwered,</hi> Sir you miſtake, it was the 2<hi>d.</hi> General Council (which was held at <hi>Con<g ref="char:EOLhyphen"/>ſtantinople)</hi> not the 2<hi>d.</hi> of <hi>Nice</hi> which I cited.</p>
+               <p>Now this behaviour remain'd with him till he came three hours after into a private Chamber, and then en<g ref="char:EOLhyphen"/>tring into himſelf, he cried
+<hi>peccavi,</hi> and deſired what had paſſed might not be ill taken. This is the true matter of Fact, and if <hi>A. P.</hi> allow 20 or 30 very ridiculous motions of hands, eyes, and face, to imbelliſh this Gen<g ref="char:EOLhyphen"/>tlemans Diſcourſes, it is ſhort of what his deportments merit. Page 2. it is not true what he ſays of Mr. <hi>M</hi>'s <hi>interpoſing private Queſtions of his own to the</hi> Dr, for this was the <hi>D</hi>'s refuge for near two hours, tho' <hi>A. P.</hi> grants Mr. <hi>M.</hi> once or twice to have interpoſed, but <hi>not private</hi>
+                  <pb n="42" facs="tcp:50470:27"/> 
+                  <hi>Queſtions of his own.</hi> Page 3. He tells you that <hi>A. P</hi>'s pulling out his <hi>Breviary,</hi> gave occaſion to him of pro<g ref="char:EOLhyphen"/>ducing his Picture, which is as far from Truth, as
+<hi>A. C.</hi> from being Pope; the Picture being produced about the be<g ref="char:EOLhyphen"/>ginning of the Conference, and upon no ſuch occaſion as he relates, whereas as
+<hi>A. P.</hi> took out his <hi>Breviary,</hi> upon account of Authorities relating to <hi>Tranſubſtantiation,</hi> which happened an hour and a half after. Page 5, He denies his <hi>wry Mouths and antick Geſtures,</hi> with the ſame impudence he made them. It may be <hi>A. C.</hi> through force of an inveterate habit, may not be particularly mindful of his deformed comportment that day; as it befel the Shep<g ref="char:EOLhyphen"/>hards Boy, whom <hi>A. P</hi>'s Brother reprehending for his ill habit of Swearing, reply'd with a great Oath, <hi>that he had never Swore in his life.</hi> Pag. 6. He gives you a ſmooth account of his moderate temper which never appear'd, till he cry'd <hi>peccavi</hi> with a civil Bow and Congy a little before parting. Page 7 and 8. He plays the
+<hi>Ignoramus Dr.</hi> and beats the Air, diſcovering a total ignorance of Symbo<g ref="char:EOLhyphen"/>lical Repreſentations, as of Angels under mans ſhapes, the <hi>Holy Ghoſt</hi> under that of <hi>Fiery Tongues, Dove,</hi> &amp;c. he ought not to impugn Doctrines he does not underſtand, let him ask thoſe of
+<hi>Trinity-Colledge</hi> in <hi>Oxford,</hi> why they repre<g ref="char:EOLhyphen"/>ſent the
+<hi>Bleſſed Trinity</hi> by the Letter <hi>Delta?</hi> Now <hi>A. P.</hi> finding ſo much diſ-ingenuity, want of Truth, Spirit of Contempt and Ignorance in <hi>A. C</hi>'s firſt Sheet, thought it time loſt, to Scribble againſt one whoſe Tongue no Wiſe Man will eſteem a Slander.</p>
+               <p>Now if the <hi>Reader</hi> will be pleas'd to conſider that
+<hi>A. C. is a mercenary School-Master,</hi> he will preſently diſco<g ref="char:EOLhyphen"/>ver the reaſon why in the Conference by his uncivil Comportments, and now by his more uncivil Pen, he would ſain draw <hi>A. P.</hi> into contempt; <hi>which thanks be to God</hi> A. P. ſtands very little in fear of from him, nor ſhall he ever give him the honour of a future Anſwer.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50470:27"/>
+         </div>
+      </body>
+   </text>
+</TEI>
